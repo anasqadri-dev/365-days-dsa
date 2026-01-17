@@ -1,0 +1,220 @@
+# 📊 365 Days of DSA — Daily Progress Log
+
+This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
+
+---
+
+## ✅ Day 1
+
+* 📌 Problem: LC 771 – Jewels and Stones
+* 🧠 Topic: Basics
+* ⏱ Time Taken: 15 minutes
+* 💡 Key Learning:
+
+  * Efficient counting using sets
+* 🔗 Solution: `solutions/Day01.java`
+
+---
+
+## ✅ Day 2
+
+* 📌 Problem: LC 1 – Two Sum
+* 🧠 Topic: Arrays
+* 💡 Key Learning:
+
+  * Complement-based lookup pattern
+* 🔗 Solution: `solutions/Day02.java`
+
+---
+
+## ✅ Day 3
+
+* 📌 Problem: LC 26 – Remove Duplicates from Sorted Array
+* 🧠 Topic: Arrays
+* ⏱ Time Taken: 20 minutes
+* 💡 Key Learning:
+
+  * In-place modification using pointers
+  * Leveraging sorted order
+* 🔗 Solution: `solutions/Day03.java`
+
+---
+
+## ✅ Day 4
+
+* 📌 Problem: LC 1929 – Concatenation of Array
+* 🧠 Topic: Arrays
+* ⏱ Time Taken: 10 minutes
+* 💡 Key Learning:
+
+  * Array traversal and indexing
+  * Creating result arrays efficiently
+* 🔗 Solution: `solutions/Day04.java`
+
+---
+
+## ✅ Day 5
+
+* 📌 Problem: LC 35 – Search Insert Position
+* 🧠 Topic: Searching Algorithm
+* ⏱ Time Taken: 18 minutes
+* 💡 Key Learning:
+
+  * Handling edge insertion cases
+* 🔗 Solution: `solutions/Day05.java`
+
+---
+
+## ✅ Day 6
+
+* 📌 Problem: LC 876 – Middle of the Linked List
+* 🧠 Topic: Linked List
+* ⏱ Time Taken: 15 minutes
+* 💡 Key Learning:
+
+  * Slow and fast pointer technique
+  * Efficient single-pass traversal
+* 🔗 Solution: `solutions/Day06.java`
+
+---
+
+## ✅ Day 7
+
+* 📌 Problem: LC 206 – Reverse Linked List
+* 🧠 Topic: Linked List
+* ⏱ Time Taken: 20 minutes
+* 💡 Key Learning:
+
+  * Iterative pointer reversal
+  * Maintaining previous and next nodes
+* 🔗 Solution: `solutions/Day07.java`
+
+---
+
+## ✅ Day 8
+
+* 📌 Problem: LC 234 – Palindrome Linked List
+* 🧠 Topic: Linked List
+* ⏱ Time Taken: 25 minutes
+* 💡 Key Learning:
+
+  * Reverse second half of list
+  * Compare both halves efficiently
+* 🔗 Solution: `solutions/Day08.java`
+
+---
+
+## ✅ Day 9
+
+* 📌 Problem: LC 141 – Linked List Cycle
+* 🧠 Topic: Linked List
+* ⏱ Time Taken: 15 minutes
+* 💡 Key Learning:
+
+  * Fast & slow pointer cycle detection
+* 🔗 Solution: `solutions/Day09.java`
+
+---
+
+## ✅ Day 10
+
+* 📌 Problem: LC 203 – Remove Linked List Elements
+* 🧠 Topic: Linked List
+* ⏱ Time Taken: 20 minutes
+* 💡 Key Learning:
+
+  * Dummy node usage
+  * Safe node removal patterns
+* 🔗 Solution: `solutions/Day10.java`
+
+---
+
+## ✅ Day 11
+
+* 📌 Problem: LC 83 – Remove Duplicates from Sorted List
+* 🧠 Topic: Linked List
+* ⏱ Time Taken: 15 minutes
+* 💡 Key Learning:
+
+  * Skipping duplicate nodes
+  * Leveraging sorted property
+* 🔗 Solution: `solutions/Day11.java`
+
+---
+
+## ✅ Day 12
+
+* 📌 Problem: LC 160 – Intersection of Two Linked Lists
+* 🧠 Topic: Linked List
+* ⏱ Time Taken: 25 minutes
+* 💡 Key Learning:
+
+  * Pointer switching technique
+  * Equalizing traversal lengths
+* 🔗 Solution: `solutions/Day12.java`
+
+---
+
+## ✅ Day 13
+
+* 📌 Problem: LC 1480 – Running Sum of 1d Array
+* 🧠 Topic: Arrays / Prefix Sum
+* ⏱ Time Taken: 10 minutes
+* 💡 Key Learning:
+
+  * Prefix sum accumulation
+  * In-place updates
+* 🔗 Solution: `solutions/Day13.java`
+
+---
+
+## ✅ Day 14
+
+* 📌 Problem: LC 1672 – Richest Customer Wealth
+* 🧠 Topic: Arrays
+* ⏱ Time Taken: 10 minutes
+* 💡 Key Learning:
+
+  * Row-wise summation
+  * Tracking maximum values
+* 🔗 Solution: `solutions/Day14.java`
+
+---
+
+## ✅ Day 15
+
+* 📌 Problem: LC 1470 – Shuffle the Array
+* 🧠 Topic: Arrays
+* ⏱ Time Taken: 15 minutes
+* 💡 Key Learning:
+
+  * Index manipulation
+  * Careful array construction
+* 🔗 Solution: `solutions/Day15.java`
+
+---
+
+## ✅ Day 16
+
+* 📌 Problem: LC 1431 – Kids With the Greatest Number of Candies
+* 🧠 Topic: Arrays
+* ⏱ Time Taken: 10 minutes
+* 💡 Key Learning:
+
+  * Precompute maximum
+  * Boolean result mapping
+* 🔗 Solution: `solutions/Day16.java`
+
+---
+
+## ✅ Day 17
+
+* 📌 Problem: LC 1512 – Number of Good Pairs
+* 🧠 Topic: Arrays
+* ⏱ Time Taken: 05 minutes
+* 💡 Key Learning:
+
+  * Counting frequency pairs
+* 🔗 Solution: `solutions/Day17.java`
+
+---
