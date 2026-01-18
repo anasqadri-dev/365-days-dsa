@@ -218,3 +218,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day17.java`
 
 ---
+
+## ✅ Day 18
+
+* 📌 Problem: LC 1365 – How Many Numbers Are Smaller Than the Current Number
+* 🧠 Topic: Arrays
+* ⏱ Time Taken: 04 minutes
+* 💡 Key Learning:
+  * Pairwise comparison in arrays
+  * Using nested loops to compute relative ordering
+  * Building result arrays incrementally
+* 🔗 Solution: `solutions/Day18.java`
+
+---
