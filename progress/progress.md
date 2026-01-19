@@ -231,3 +231,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day18.java`
 
 ---
+
+## ✅ Day 19
+
+* 📌 Problem: LC 1389 – Create Target Array in the Given Order
+* 🧠 Topic: Arrays
+* ⏱ Time Taken: 17 minutes
+* 💡 Key Learning:
+  * Simulating insert operations in arrays
+  * Shifting elements to the right to make space
+  * Managing dynamic positions with a fixed-size array
+* 🔗 Solution: `solutions/Day19.java`
+
+---
