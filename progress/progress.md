@@ -244,3 +244,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day19.java`
 
 ---
+
+## ✅ Day 20
+
+* 📌 Problem: LC 1832 – Check if the Sentence Is Pangram
+* 🧠 Topic: Strings, Arrays
+* ⏱ Time Taken: 16 minutes
+* 💡 Key Learning:
+  * Mapping characters to array indices
+  * Using boolean arrays for presence tracking
+  * Efficient validation of constraints
+* 🔗 Solution: `solutions/Day20.java`
+
+---
