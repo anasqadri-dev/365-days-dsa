@@ -257,3 +257,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day20.java`
 
 ---
+
+## ✅ Day 21
+
+* 📌 Problem: LC 1773 – Count Items Matching a Rule
+* 🧠 Topic: Arrays, Lists
+* ⏱ Time Taken: 12 minutes
+* 💡 Key Learning:
+  * Mapping keys to indices
+  * Traversing nested lists
+  * Conditional comparison patterns
+  * Clean switch-case logic
+* 🔗 Solution: `solutions/Day21.java`
+
+---
