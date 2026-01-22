@@ -271,3 +271,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day21.java`
 
 ---
+
+## ✅ Day 22
+
+* 📌 Problem: LC 1732 – Find the Highest Altitude
+* 🧠 Topic: Arrays, Prefix Sum
+* ⏱ Time Taken: 10 minutes
+* 💡 Key Learning:
+  * Using prefix sums for cumulative tracking
+  * Maintaining maximum values during iteration
+  * Single-pass array traversal
+* 🔗 Solution: `solutions/Day22.java`
+
+---
