@@ -284,3 +284,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day22.java`
 
 ---
+
+## ✅ Day 23
+
+* 📌 Problem: LC 832 – Flipping an Image
+* 🧠 Topic: Arrays, Two Pointers, Bit Manipulation
+* ⏱ Time Taken: 11 minutes
+* 💡 Key Learning:
+  * Combining multiple operations in a single pass
+  * Two-pointer technique on 2D arrays
+  * Using XOR for bit inversion
+  * In-place transformations without extra space
+* 🔗 Solution: `solutions/Day23.java`
+
+---
