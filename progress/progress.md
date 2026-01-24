@@ -298,3 +298,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day23.java`
 
 ---
+
+## ✅ Day 24
+
+* 📌 Problem: LC 1252 – Cells with Odd Values in a Matrix
+* 🧠 Topic: Arrays, Matrix, Counting
+* ⏱ Time Taken: 13 minutes
+* 💡 Key Learning:
+  * Using row and column tracking arrays
+  * Avoiding unnecessary matrix updates
+  * Applying parity (odd/even) logic
+  * Optimizing time complexity
+* 🔗 Solution: `solutions/Day24.java`
+
+---
