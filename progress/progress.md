@@ -312,3 +312,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day24.java`
 
 ---
+
+## ✅ Day 25
+
+* 📌 Problem: LC 1572 – Matrix Diagonal Sum
+* 🧠 Topic: Arrays, Matrices
+* ⏱ Time Taken: 08 minutes
+* 💡 Key Learning:
+  * Diagonal traversal in matrices
+  * Index mapping for secondary diagonal
+  * Avoiding double counting in odd-sized matrices
+* 🔗 Solution: `solutions/Day25.java`
+
+---
