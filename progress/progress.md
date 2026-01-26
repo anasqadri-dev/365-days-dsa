@@ -325,3 +325,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day25.java`
 
 ---
+
+## ✅ Day 26
+
+* 📌 Problem: LC 1295 – Find Numbers with Even Number of Digits
+* 🧠 Topic: Arrays
+* ⏱ Time Taken: 06 minutes
+* 💡 Key Learning:
+  * Counting digits using division
+  * Applying conditional checks on numeric properties
+  * Clean iteration over arrays
+* 🔗 Solution: `solutions/Day26.java`
+
+---
