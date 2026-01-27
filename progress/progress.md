@@ -338,3 +338,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day26.java`
 
 ---
+
+## ✅ Day 27
+
+* 📌 Problem: LC 867 – Transpose Matrix
+* 🧠 Topic: Arrays, Matrices
+* ⏱ Time Taken: 07 minutes
+* 💡 Key Learning:
+  * Matrix dimension transformation
+  * Row-to-column index mapping
+  * Traversing 2D arrays safely
+* 🔗 Solution: `solutions/Day27.java`
+
+---
