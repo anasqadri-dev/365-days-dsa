@@ -351,3 +351,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day27.java`
 
 ---
+
+## ✅ Day 28
+
+* 📌 Problem: LC 989 – Add to Array-Form of Integer
+* 🧠 Topic: Arrays, Math
+* ⏱ Time Taken: 15 minutes
+* 💡 Key Learning:
+  * Digit-wise addition with carry
+  * Traversing arrays from right to left
+  * Using dynamic lists for variable-length results
+* 🔗 Solution: `solutions/Day28.java`
+
+---
