@@ -364,3 +364,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day28.java`
 
 ---
+
+## ✅ Day 29
+
+* 📌 Problem: LC 1854 – Maximum Population Year
+* 🧠 Topic: Arrays, Prefix Sum
+* ⏱ Time Taken: 14 minutes
+* 💡 Key Learning:
+  * Using difference arrays for range updates
+  * Prefix sum for cumulative tracking
+  * Finding earliest maximum efficiently
+* 🔗 Solution: `solutions/Day29.java`
+
+---
