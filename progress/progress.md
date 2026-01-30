@@ -377,3 +377,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day29.java`
 
 ---
+
+## ✅ Day 30
+
+* 📌 Problem: LC 566 – Reshape the Matrix
+* 🧠 Topic: Arrays, Matrix
+* ⏱ Time Taken: 11 minutes
+* 💡 Key Learning:
+  * Validating reshape constraints
+  * Mapping 1D index to 2D matrix
+  * Preserving row-major order
+* 🔗 Solution: `solutions/Day30.java`
+
+---
