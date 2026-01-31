@@ -390,3 +390,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day30.java`
 
 ---
+
+## ✅ Day 31
+
+* 📌 Problem: LC 66 – Plus One
+* 🧠 Topic: Arrays
+* ⏱ Time Taken: 8 minutes
+* 💡 Key Learning:
+  * Carry handling in array-based arithmetic
+  * Reverse traversal techniques
+  * Managing edge cases (all digits = 9)
+* 🔗 Solution: `solutions/Day31.java`
+
+---
