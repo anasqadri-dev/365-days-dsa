@@ -403,3 +403,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day31.java`
 
 ---
+
+## ✅ Day 32
+
+* 📌 Problem: LC 27 – Remove Element
+* 🧠 Topic: Arrays, Two Pointers
+* ⏱ Time Taken: 6 minutes
+* 💡 Key Learning:
+  * In-place array modification
+  * Two-pointer traversal technique
+  * Space-optimized solutions
+* 🔗 Solution: `solutions/Day32.java`
+
+---
