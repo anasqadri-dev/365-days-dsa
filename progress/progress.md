@@ -416,3 +416,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day32.java`
 
 ---
+
+## ✅ Day 33
+
+* 📌 Problem: LC 121 – Best Time to Buy and Sell Stock
+* 🧠 Topic: Arrays, Greedy
+* ⏱ Time Taken: 7 minutes
+* 💡 Key Learning:
+  * Greedy strategy with single traversal
+  * Tracking minimum values dynamically
+  * Optimizing brute-force solutions to O(n)
+* 🔗 Solution: `solutions/Day33.java`
+
+---
