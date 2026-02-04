@@ -442,3 +442,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day34.java`
 
 ---
+
+## ✅ Day 35
+
+* 📌 Problem: LC 169 – Majority Element
+* 🧠 Topic: Arrays
+* ⏱ Time Taken: 7 minutes
+* 💡 Key Learning:
+  * Frequency counting in arrays
+  * Applying majority constraints
+  * Translating mathematical conditions into logic
+* 🔗 Solution: `solutions/Day35.java`
+
+---
