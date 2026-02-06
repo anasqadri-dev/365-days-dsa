@@ -468,3 +468,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: `solutions/Day36.java`
 
 ---
+
+## ✅ Day 37
+
+* 📌 Problem: LC 88 – Merge Sorted Array
+* 🧠 Topic: Arrays, Two Pointers
+* ⏱ Time Taken: 9 minutes
+* 💡 Key Learning:
+  * Merge logic using multiple pointers
+  * Handling array sizes with extra buffer
+  * Clean comparison-based traversal
+* 🔗 Solution: `solutions/Day37.java`
+
+---
