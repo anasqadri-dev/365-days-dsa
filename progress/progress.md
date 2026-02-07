@@ -481,3 +481,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day37.java`
 
 ---
+
+## ✅ Day 38
+
+* 📌 Problem: LC 53 – Maximum Subarray
+* 🧠 Topic: Arrays, Dynamic Programming
+* ⏱ Time Taken: 11 minutes
+* 💡 Key Learning:
+  * Kadane’s Algorithm
+  * Tracking local vs global optimum
+  * Efficient single-pass solutions
+* 🔗 Solution: `solutions/Day38.java`
+
+---
