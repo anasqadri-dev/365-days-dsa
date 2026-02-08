@@ -494,3 +494,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day38.java`
 
 ---
+
+## ✅ Day 39
+
+* 📌 Problem: LC 628 – Maximum Product of Three Numbers
+* 🧠 Topic: Arrays
+* ⏱ Time Taken: 14 minutes
+* 💡 Key Learning:
+  * Evaluating all combinations of triplets
+  * Handling negative values in products
+  * Brute-force problem-solving for clarity
+* 🔗 Solution: `solutions/Day39.java`
+
+---
