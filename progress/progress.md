@@ -507,3 +507,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day39.java`
 
 ---
+
+## ✅ Day 40
+
+* 📌 Problem: LC 189 – Rotate Array
+* 🧠 Topic: Arrays
+* ⏱ Time Taken: 15 minutes
+* 💡 Key Learning:
+  * Using modulo for cyclic index mapping
+  * Array rotation logic
+  * Space–time trade-offs with auxiliary arrays
+* 🔗 Solution: `solutions/Day40.java`
+
+---
