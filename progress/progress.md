@@ -520,3 +520,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day40.java`
 
 ---
+
+## ✅ Day 41
+
+* 📌 Problem: LC 238 – Product of Array Except Self
+* 🧠 Topic: Arrays, Prefix & Suffix Products
+* ⏱ Time Taken: 18 minutes
+* 💡 Key Learning:
+  * Prefix and suffix product technique
+  * Avoiding division safely
+  * Two-pass array traversal
+  * Space-efficient computation
+* 🔗 Solution: `solutions/Day41.java`
+
+---
