@@ -534,3 +534,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day41.java`
 
 ---
+
+## ✅ Day 42
+
+* 📌 Problem: LC 75 – Sort Colors
+* 🧠 Topic: Arrays, Two Pointers, Dutch National Flag Algorithm
+* ⏱ Time Taken: 20 minutes
+* 💡 Key Learning:
+  * Three-pointer technique
+  * In-place partitioning
+  * Single-pass sorting
+  * Classic algorithm pattern recognition
+* 🔗 Solution: `solutions/Day42.java`
+
+---
