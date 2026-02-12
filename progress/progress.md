@@ -548,3 +548,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day42.java`
 
 ---
+
+## ✅ Day 43
+
+* 📌 Problem: LC 48 – Rotate Image
+* 🧠 Topic: Matrix, In-Place Manipulation
+* ⏱ Time Taken: 28 minutes
+* 💡 Key Learning:
+  * Layer-by-layer matrix traversal
+  * 4-way element swapping
+  * In-place 2D transformations
+  * Strengthening spatial visualization
+* 🔗 Solution: `solutions/Day43.java`
+
+---
