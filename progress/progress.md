@@ -562,3 +562,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day43.java`
 
 ---
+
+## ✅ Day 44
+
+* 📌 Problem: LC 54 – Spiral Matrix
+* 🧠 Topic: Matrix, Layer Traversal
+* ⏱ Time Taken: 30 minutes
+* 💡 Key Learning:
+  * Managing matrix boundaries carefully
+  * Layer-by-layer traversal
+  * Handling single row/column edge cases
+  * Improving 2D index control
+* 🔗 Solution: `solutions/Day44.java`
+
+---
