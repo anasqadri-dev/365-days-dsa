@@ -576,3 +576,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day44.java`
 
 ---
+
+## ✅ Day 45
+
+* 📌 Problem: LC 59 – Spiral Matrix II
+* 🧠 Topic: Matrix, Boundary Traversal
+* ⏱ Time Taken: 26 minutes
+* 💡 Key Learning:
+  * Controlled spiral generation
+  * Managing shrinking boundaries
+  * Pattern continuation from Spiral Matrix I
+  * Strengthening 2D traversal logic
+* 🔗 Solution: `solutions/Day45.java`
+
+---
