@@ -590,3 +590,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day45.java`
 
 ---
+
+## ✅ Day 46
+
+* 📌 Problem: LC 73 – Set Matrix Zeroes
+* 🧠 Topic: Matrix, Simulation
+* ⏱ Time Taken: 32 minutes
+* 💡 Key Learning:
+  * Tracking rows and columns separately
+  * Avoiding modification conflicts during traversal
+  * Clean two-pass matrix solution
+  * Strengthening matrix manipulation skills
+* 🔗 Solution: `solutions/Day46.java`
+
+---
