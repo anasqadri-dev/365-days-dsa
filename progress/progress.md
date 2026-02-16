@@ -604,3 +604,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day46.java`
 
 ---
+
+## ✅ Day 47
+
+* 📌 Problem: LC 34 – Find First and Last Position of Element in Sorted Array
+* 🧠 Topic: Binary Search
+* ⏱ Time Taken: 38 minutes
+* 💡 Key Learning:
+  * Finding lower bound using binary search
+  * Efficient boundary detection in sorted arrays
+  * Avoiding linear scan with optimal O(log n) approach
+  * Understanding insertion point logic
+* 🔗 Solution: `solutions/Day47.java`
+
+---
