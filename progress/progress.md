@@ -618,3 +618,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day47.java`
 
 ---
+
+## ✅ Day 48
+
+* 📌 Problem: LC 55 – Jump Game
+* 🧠 Topic: Greedy Algorithm, Arrays
+* ⏱ Time Taken: 32 minutes
+* 💡 Key Learning:
+  * Greedy approach for reachability problems
+  * Tracking maximum reachable index
+  * Early termination when unreachable position found
+  * Writing optimal O(n) solutions without recursion
+* 🔗 Solution: `solutions/Day48.java`
+
+---
