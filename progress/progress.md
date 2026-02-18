@@ -471,164 +471,178 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 
 ## ✅ Day 37
 
-* 📌 Problem: LC 88 – Merge Sorted Array
-* 🧠 Topic: Arrays, Two Pointers
-* ⏱ Time Taken: 9 minutes
-* 💡 Key Learning:
-  * Merge logic using multiple pointers
-  * Handling array sizes with extra buffer
-  * Clean comparison-based traversal
-* 🔗 Solution: `solutions/Day37.java`
+- 📌 Problem: LC 88 – Merge Sorted Array
+- 🧠 Topic: Arrays, Two Pointers
+- ⏱ Time Taken: 9 minutes
+- 💡 Key Learning:
+  - Merge logic using multiple pointers
+  - Handling array sizes with extra buffer
+  - Clean comparison-based traversal
+- 🔗 Solution: `solutions/Day37.java`
 
 ---
 
 ## ✅ Day 38
 
-* 📌 Problem: LC 53 – Maximum Subarray
-* 🧠 Topic: Arrays, Dynamic Programming
-* ⏱ Time Taken: 11 minutes
-* 💡 Key Learning:
-  * Kadane’s Algorithm
-  * Tracking local vs global optimum
-  * Efficient single-pass solutions
-* 🔗 Solution: `solutions/Day38.java`
+- 📌 Problem: LC 53 – Maximum Subarray
+- 🧠 Topic: Arrays, Dynamic Programming
+- ⏱ Time Taken: 11 minutes
+- 💡 Key Learning:
+  - Kadane’s Algorithm
+  - Tracking local vs global optimum
+  - Efficient single-pass solutions
+- 🔗 Solution: `solutions/Day38.java`
 
 ---
 
 ## ✅ Day 39
 
-* 📌 Problem: LC 628 – Maximum Product of Three Numbers
-* 🧠 Topic: Arrays
-* ⏱ Time Taken: 14 minutes
-* 💡 Key Learning:
-  * Evaluating all combinations of triplets
-  * Handling negative values in products
-  * Brute-force problem-solving for clarity
-* 🔗 Solution: `solutions/Day39.java`
+- 📌 Problem: LC 628 – Maximum Product of Three Numbers
+- 🧠 Topic: Arrays
+- ⏱ Time Taken: 14 minutes
+- 💡 Key Learning:
+  - Evaluating all combinations of triplets
+  - Handling negative values in products
+  - Brute-force problem-solving for clarity
+- 🔗 Solution: `solutions/Day39.java`
 
 ---
 
 ## ✅ Day 40
 
-* 📌 Problem: LC 189 – Rotate Array
-* 🧠 Topic: Arrays
-* ⏱ Time Taken: 15 minutes
-* 💡 Key Learning:
-  * Using modulo for cyclic index mapping
-  * Array rotation logic
-  * Space–time trade-offs with auxiliary arrays
-* 🔗 Solution: `solutions/Day40.java`
+- 📌 Problem: LC 189 – Rotate Array
+- 🧠 Topic: Arrays
+- ⏱ Time Taken: 15 minutes
+- 💡 Key Learning:
+  - Using modulo for cyclic index mapping
+  - Array rotation logic
+  - Space–time trade-offs with auxiliary arrays
+- 🔗 Solution: `solutions/Day40.java`
 
 ---
 
 ## ✅ Day 41
 
-* 📌 Problem: LC 238 – Product of Array Except Self
-* 🧠 Topic: Arrays, Prefix & Suffix Products
-* ⏱ Time Taken: 18 minutes
-* 💡 Key Learning:
-  * Prefix and suffix product technique
-  * Avoiding division safely
-  * Two-pass array traversal
-  * Space-efficient computation
-* 🔗 Solution: `solutions/Day41.java`
+- 📌 Problem: LC 238 – Product of Array Except Self
+- 🧠 Topic: Arrays, Prefix & Suffix Products
+- ⏱ Time Taken: 18 minutes
+- 💡 Key Learning:
+  - Prefix and suffix product technique
+  - Avoiding division safely
+  - Two-pass array traversal
+  - Space-efficient computation
+- 🔗 Solution: `solutions/Day41.java`
 
 ---
 
 ## ✅ Day 42
 
-* 📌 Problem: LC 75 – Sort Colors
-* 🧠 Topic: Arrays, Two Pointers, Dutch National Flag Algorithm
-* ⏱ Time Taken: 20 minutes
-* 💡 Key Learning:
-  * Three-pointer technique
-  * In-place partitioning
-  * Single-pass sorting
-  * Classic algorithm pattern recognition
-* 🔗 Solution: `solutions/Day42.java`
+- 📌 Problem: LC 75 – Sort Colors
+- 🧠 Topic: Arrays, Two Pointers, Dutch National Flag Algorithm
+- ⏱ Time Taken: 20 minutes
+- 💡 Key Learning:
+  - Three-pointer technique
+  - In-place partitioning
+  - Single-pass sorting
+  - Classic algorithm pattern recognition
+- 🔗 Solution: `solutions/Day42.java`
 
 ---
 
 ## ✅ Day 43
 
-* 📌 Problem: LC 48 – Rotate Image
-* 🧠 Topic: Matrix, In-Place Manipulation
-* ⏱ Time Taken: 28 minutes
-* 💡 Key Learning:
-  * Layer-by-layer matrix traversal
-  * 4-way element swapping
-  * In-place 2D transformations
-  * Strengthening spatial visualization
-* 🔗 Solution: `solutions/Day43.java`
+- 📌 Problem: LC 48 – Rotate Image
+- 🧠 Topic: Matrix, In-Place Manipulation
+- ⏱ Time Taken: 28 minutes
+- 💡 Key Learning:
+  - Layer-by-layer matrix traversal
+  - 4-way element swapping
+  - In-place 2D transformations
+  - Strengthening spatial visualization
+- 🔗 Solution: `solutions/Day43.java`
 
 ---
 
 ## ✅ Day 44
 
-* 📌 Problem: LC 54 – Spiral Matrix
-* 🧠 Topic: Matrix, Layer Traversal
-* ⏱ Time Taken: 30 minutes
-* 💡 Key Learning:
-  * Managing matrix boundaries carefully
-  * Layer-by-layer traversal
-  * Handling single row/column edge cases
-  * Improving 2D index control
-* 🔗 Solution: `solutions/Day44.java`
+- 📌 Problem: LC 54 – Spiral Matrix
+- 🧠 Topic: Matrix, Layer Traversal
+- ⏱ Time Taken: 30 minutes
+- 💡 Key Learning:
+  - Managing matrix boundaries carefully
+  - Layer-by-layer traversal
+  - Handling single row/column edge cases
+  - Improving 2D index control
+- 🔗 Solution: `solutions/Day44.java`
 
 ---
 
 ## ✅ Day 45
 
-* 📌 Problem: LC 59 – Spiral Matrix II
-* 🧠 Topic: Matrix, Boundary Traversal
-* ⏱ Time Taken: 26 minutes
-* 💡 Key Learning:
-  * Controlled spiral generation
-  * Managing shrinking boundaries
-  * Pattern continuation from Spiral Matrix I
-  * Strengthening 2D traversal logic
-* 🔗 Solution: `solutions/Day45.java`
+- 📌 Problem: LC 59 – Spiral Matrix II
+- 🧠 Topic: Matrix, Boundary Traversal
+- ⏱ Time Taken: 26 minutes
+- 💡 Key Learning:
+  - Controlled spiral generation
+  - Managing shrinking boundaries
+  - Pattern continuation from Spiral Matrix I
+  - Strengthening 2D traversal logic
+- 🔗 Solution: `solutions/Day45.java`
 
 ---
 
 ## ✅ Day 46
 
-* 📌 Problem: LC 73 – Set Matrix Zeroes
-* 🧠 Topic: Matrix, Simulation
-* ⏱ Time Taken: 32 minutes
-* 💡 Key Learning:
-  * Tracking rows and columns separately
-  * Avoiding modification conflicts during traversal
-  * Clean two-pass matrix solution
-  * Strengthening matrix manipulation skills
-* 🔗 Solution: `solutions/Day46.java`
+- 📌 Problem: LC 73 – Set Matrix Zeroes
+- 🧠 Topic: Matrix, Simulation
+- ⏱ Time Taken: 32 minutes
+- 💡 Key Learning:
+  - Tracking rows and columns separately
+  - Avoiding modification conflicts during traversal
+  - Clean two-pass matrix solution
+  - Strengthening matrix manipulation skills
+- 🔗 Solution: `solutions/Day46.java`
 
 ---
 
 ## ✅ Day 47
 
-* 📌 Problem: LC 34 – Find First and Last Position of Element in Sorted Array
-* 🧠 Topic: Binary Search
-* ⏱ Time Taken: 38 minutes
-* 💡 Key Learning:
-  * Finding lower bound using binary search
-  * Efficient boundary detection in sorted arrays
-  * Avoiding linear scan with optimal O(log n) approach
-  * Understanding insertion point logic
-* 🔗 Solution: `solutions/Day47.java`
+- 📌 Problem: LC 34 – Find First and Last Position of Element in Sorted Array
+- 🧠 Topic: Binary Search
+- ⏱ Time Taken: 38 minutes
+- 💡 Key Learning:
+  - Finding lower bound using binary search
+  - Efficient boundary detection in sorted arrays
+  - Avoiding linear scan with optimal O(log n) approach
+  - Understanding insertion point logic
+- 🔗 Solution: `solutions/Day47.java`
 
 ---
 
 ## ✅ Day 48
 
-* 📌 Problem: LC 55 – Jump Game
-* 🧠 Topic: Greedy Algorithm, Arrays
-* ⏱ Time Taken: 32 minutes
-* 💡 Key Learning:
-  * Greedy approach for reachability problems
-  * Tracking maximum reachable index
-  * Early termination when unreachable position found
-  * Writing optimal O(n) solutions without recursion
-* 🔗 Solution: `solutions/Day48.java`
+- 📌 Problem: LC 55 – Jump Game
+- 🧠 Topic: Greedy Algorithm, Arrays
+- ⏱ Time Taken: 32 minutes
+- 💡 Key Learning:
+  - Greedy approach for reachability problems
+  - Tracking maximum reachable index
+  - Early termination when unreachable position found
+  - Writing optimal O(n) solutions without recursion
+- 🔗 Solution: `solutions/Day48.java`
+
+---
+
+## ✅ Day 49
+
+- 📌 Problem: LC 198 – House Robber
+- 🧠 Topic: Dynamic Programming
+- ⏱ Time Taken: 35 minutes
+- 💡 Key Learning:
+  - DP state transition logic
+  - Optimal substructure property
+  - Space optimization by reusing array
+  - Making decisions based on previous states
+- 🔗 Solution: `solutions/Day49.java`
 
 ---
