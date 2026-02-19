@@ -646,3 +646,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: `solutions/Day49.java`
 
 ---
+
+## ✅ Day 50
+
+- 📌 Problem: LC 560 – Subarray Sum Equals K
+- 🧠 Topic: Arrays, Prefix Sum (Brute Force Approach)
+- ⏱ Time Taken: 17 minutes
+- 💡 Key Learning:
+  - Understanding contiguous subarrays
+  - Running sum tracking
+  - Counting valid subarrays
+  - Building foundation before optimization
+- 🔗 Solution: `solutions/Day50.java`
+
+---
