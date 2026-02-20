@@ -660,3 +660,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: `solutions/Day50.java`
 
 ---
+
+## ✅ Day 51
+
+* 📌 Problem: LC 152 – Maximum Product Subarray
+* 🧠 Topic: Dynamic Programming, Arrays
+* ⏱ Time Taken: 36 minutes
+* 💡 Key Learning:
+  * Handling negative numbers in product problems
+  * Forward and backward traversal technique
+  * Resetting product after zero
+  * Difference between sum-based and product-based DP
+* 🔗 Solution: `solutions/Day51.java`
+
+---
