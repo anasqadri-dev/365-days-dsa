@@ -674,3 +674,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 * 🔗 Solution: `solutions/Day51.java`
 
 ---
+
+## ✅ Day 52
+
+* 📌 Problem: LC 11 – Container With Most Water
+* 🧠 Topic: Arrays, Two Pointers (Brute Force Approach)
+* ⏱ Time Taken: 29 minutes
+* 💡 Key Learning:
+  * Area calculation using width × min(height)
+  * Understanding container constraints
+  * Identifying inefficiency in O(n²) approach
+  * Recognizing opportunity for two-pointer optimization
+* 🔗 Solution: `solutions/Day52.java`
+
+---
