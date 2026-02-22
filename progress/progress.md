@@ -663,28 +663,42 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 
 ## ✅ Day 51
 
-* 📌 Problem: LC 152 – Maximum Product Subarray
-* 🧠 Topic: Dynamic Programming, Arrays
-* ⏱ Time Taken: 36 minutes
-* 💡 Key Learning:
-  * Handling negative numbers in product problems
-  * Forward and backward traversal technique
-  * Resetting product after zero
-  * Difference between sum-based and product-based DP
-* 🔗 Solution: `solutions/Day51.java`
+- 📌 Problem: LC 152 – Maximum Product Subarray
+- 🧠 Topic: Dynamic Programming, Arrays
+- ⏱ Time Taken: 36 minutes
+- 💡 Key Learning:
+  - Handling negative numbers in product problems
+  - Forward and backward traversal technique
+  - Resetting product after zero
+  - Difference between sum-based and product-based DP
+- 🔗 Solution: `solutions/Day51.java`
 
 ---
 
 ## ✅ Day 52
 
-* 📌 Problem: LC 11 – Container With Most Water
-* 🧠 Topic: Arrays, Two Pointers (Brute Force Approach)
-* ⏱ Time Taken: 29 minutes
-* 💡 Key Learning:
-  * Area calculation using width × min(height)
-  * Understanding container constraints
-  * Identifying inefficiency in O(n²) approach
-  * Recognizing opportunity for two-pointer optimization
-* 🔗 Solution: `solutions/Day52.java`
+- 📌 Problem: LC 11 – Container With Most Water
+- 🧠 Topic: Arrays, Two Pointers (Brute Force Approach)
+- ⏱ Time Taken: 29 minutes
+- 💡 Key Learning:
+  - Area calculation using width × min(height)
+  - Understanding container constraints
+  - Identifying inefficiency in O(n²) approach
+  - Recognizing opportunity for two-pointer optimization
+- 🔗 Solution: `solutions/Day52.java`
+
+---
+
+## ✅ Day 53
+
+- 📌 Problem: LC 42 – Trapping Rain Water
+- 🧠 Topic: Arrays, Prefix Maximum
+- ⏱ Time Taken: 42 minutes
+- 💡 Key Learning:
+  - Water trapping formula derivation
+  - Left and right maximum precomputation
+  - Breaking Hard problems into clear passes
+  - Stronger boundary reasoning skills
+- 🔗 Solution: `solutions/Day53.java`
 
 ---
