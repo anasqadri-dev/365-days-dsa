@@ -702,3 +702,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: `solutions/Day53.java`
 
 ---
+
+## ✅ Day 54
+
+- 📌 Problem: LC 41 – First Missing Positive
+- 🧠 Topic: Arrays, Cyclic Sort, In-Place Hashing
+- ⏱ Time Taken: 48 minutes
+- 💡 Key Learning:
+  - Index-based placement technique
+  - Understanding valid number range [1, n]
+  - In-place swapping strategy
+  - Solving Hard problems with O(1) space
+- 🔗 Solution: `solutions/Day54.java`
+
+---
