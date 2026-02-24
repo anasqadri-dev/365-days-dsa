@@ -716,3 +716,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: `solutions/Day54.java`
 
 ---
+
+## ✅ Day 55
+
+- 📌 Problem: LC 724 – Find Pivot Index
+- 🧠 Topic: Arrays, Prefix Sum
+- ⏱ Time Taken: 15 minutes
+- 💡 Key Learning:
+  - Using total sum to avoid recomputation
+  - Prefix sum concept (leftSum)
+  - Deriving right sum using formula
+  - Solving in O(n) time and O(1) space
+- 🔗 Solution: solutions/Day55.java
+
+---
