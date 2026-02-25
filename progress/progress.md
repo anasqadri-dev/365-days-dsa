@@ -730,3 +730,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day55.java
 
 ---
+
+## ✅ Day 56
+
+- 📌 Problem: LC 1499 – Max Value of Equation
+- 🧠 Topic: Arrays, Sliding Window, Priority Queue
+- ⏱ Time Taken: 40 minutes
+- 💡 Key Learning:
+  - Brute force approach with nested loops
+  - Understanding equation transformation
+  - Breaking problem into (y - x) and (x + y)
+  - Introduction to heap / monotonic queue optimization
+- 🔗 Solution: solutions/Day56.java
+
+---
