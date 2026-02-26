@@ -744,3 +744,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day56.java
 
 ---
+
+## ✅ Day 57
+
+- 📌 Problem: LC 1346 – Check If N and Its Double Exist
+- 🧠 Topic: Arrays, Hashing
+- ⏱ Time Taken: 10 minutes
+- 💡 Key Learning:
+  - Brute force approach using nested loops
+  - Identifying optimization using HashSet
+  - Checking double and half conditions efficiently
+  - Improving time complexity from O(n²) to O(n)
+    🔗 Solution: solutions/Day57.java
+
+---
