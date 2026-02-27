@@ -727,7 +727,7 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
   - Prefix sum concept (leftSum)
   - Deriving right sum using formula
   - Solving in O(n) time and O(1) space
-- 🔗 Solution: solutions/Day55.java
+- 🔗 Solution: `solutions/Day55.java`
 
 ---
 
@@ -741,7 +741,7 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
   - Understanding equation transformation
   - Breaking problem into (y - x) and (x + y)
   - Introduction to heap / monotonic queue optimization
-- 🔗 Solution: solutions/Day56.java
+- 🔗 Solution: `solutions/Day56.java`
 
 ---
 
@@ -755,6 +755,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
   - Identifying optimization using HashSet
   - Checking double and half conditions efficiently
   - Improving time complexity from O(n²) to O(n)
-    🔗 Solution: solutions/Day57.java
+- 🔗 Solution: `solutions/Day57.java`
+
+---
+
+## ✅ Day 58
+
+- 📌 Problem: LC 977 – Squares of a Sorted Array
+- 🧠 Topic: Arrays, Two Pointers, Sorting
+- ⏱ Time Taken: 10 minutes
+- 💡 Key Learning:
+  - Squaring elements in an array
+  - Sorting using bubble sort
+  - Understanding problem constraints
+  - Introduction to two pointer optimization
+- 🔗 Solution: `solutions/Day58.java`
 
 ---
