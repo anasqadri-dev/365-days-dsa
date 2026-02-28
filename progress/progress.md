@@ -772,3 +772,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: `solutions/Day58.java`
 
 ---
+
+## ✅ Day 59
+
+- 📌 Problem: LC 287 – Find the Duplicate Number
+- 🧠 Topic: Arrays, Linked List, Cycle Detection
+- ⏱ Time Taken: 35 minutes
+- 💡 Key Learning:
+  - Using Floyd’s Cycle Detection algorithm
+  - Interpreting array as a linked list
+  - Detecting cycle using slow and fast pointers
+  - Finding entry point of cycle as duplicate
+- 🔗 Solution: `solutions/Day59.java`
+
+---
