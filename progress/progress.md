@@ -786,3 +786,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: `solutions/Day59.java`
 
 ---
+
+## ✅ Day 60
+
+- 📌 Problem: LC 410 – Split Array Largest Sum
+- 🧠 Topic: Recursion, Partitioning
+- ⏱ Time Taken: 55 minutes
+- 💡 Key Learning:
+  - Recursive partitioning of array
+  - Exploring all possible splits
+  - Using max() to track largest subarray sum
+  - Minimizing the maximum value across partitions
+- 🔗 Solution: solutions/Day60.java
+
+---
