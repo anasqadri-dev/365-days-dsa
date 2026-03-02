@@ -800,3 +800,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day60.java
 
 ---
+
+## ✅ Day 61
+
+- 📌 Problem: LC 217 – Contains Duplicate
+- 🧠 Topic: Arrays, Sorting
+- ⏱ Time Taken: 10 minutes
+- 💡 Key Learning:
+  - Sorting array to simplify duplicate detection
+  - Using bubble sort algorithm
+  - Checking adjacent elements for duplicates
+  - Understanding alternative approaches
+- 🔗 Solution: solutions/Day61.java
+
+---
