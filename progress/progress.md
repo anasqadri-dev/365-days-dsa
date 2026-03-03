@@ -814,3 +814,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day61.java
 
 ---
+
+## ✅ Day 62
+
+- 📌 Problem: LC 242 – Valid Anagram
+- 🧠 Topic: Strings, Arrays
+- ⏱ Time Taken: 15 minutes
+- 💡 Key Learning:
+  - Using frequency array to count characters
+  - Comparing character frequencies
+  - Avoiding sorting for better time complexity
+  - Writing helper methods for cleaner code
+- 🔗 Solution: solutions/Day62.java
+
+---
