@@ -828,3 +828,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day62.java
 
 ---
+
+## ✅ Day 63
+
+- 📌 Problem: LC 383 – Ransom Note
+- 🧠 Topic: Strings, Arrays
+- ⏱ Time Taken: 15 minutes
+- 💡 Key Learning:
+  - Using frequency array for character counting
+  - Treating characters as limited resources
+  - Decreasing count while constructing string
+  - Validating feasibility before processing
+- 🔗 Solution: solutions/Day63.java
+
+---
