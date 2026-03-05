@@ -842,3 +842,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day63.java
 
 ---
+
+## ✅ Day 64
+
+- 📌 Problem: LC 349 – Intersection of Two Arrays
+- 🧠 Topic: Arrays
+- ⏱ Time Taken: 15 minutes
+- 💡 Key Learning:
+  - Finding common elements between two arrays
+  - Ensuring unique values in the result
+  - Using helper methods for array searching
+  - Practicing simple array traversal logic
+- 🔗 Solution: solutions/Day64.java
+
+---
