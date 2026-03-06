@@ -856,3 +856,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day64.java
 
 ---
+
+## ✅ Day 65
+
+- 📌 Problem: LC 350 – Intersection of Two Arrays II
+- 🧠 Topic: Arrays
+- ⏱ Time Taken: 15 minutes
+- 💡 Key Learning:
+  - Finding intersection with duplicate elements
+  - Using boolean array to track used elements
+  - Preventing reuse of matched values
+  - Practicing nested loop comparisons
+- 🔗 Solution: solutions/Day65.java
+
+---
