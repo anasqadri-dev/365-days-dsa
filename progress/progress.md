@@ -870,3 +870,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day65.java
 
 ---
+
+## ✅ Day 66
+
+- 📌 Problem: LC 36 – Valid Sudoku
+- 🧠 Topic: Arrays, Matrix
+- ⏱ Time Taken: 25 minutes
+- 💡 Key Learning:
+  - Validating rows, columns, and sub-boxes in a 2D grid
+  - Using boolean arrays to detect duplicates
+  - Structuring logic with helper methods
+  - Practicing matrix traversal patterns
+- 🔗 Solution: solutions/Day66.java
+
+---
