@@ -884,3 +884,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day66.java
 
 ---
+## ✅ Day 67
+
+- 📌 Problem: LC 128 – Longest Consecutive Sequence
+- 🧠 Topic: Arrays, Sorting
+- ⏱ Time Taken: 25 minutes
+- 💡 Key Learning:
+  - Sorting an array to detect consecutive sequences
+  - Handling duplicate numbers during traversal
+  - Tracking longest streak using counters
+  - Practicing bubble sort implementation
+- 🔗 Solution: solutions/Day67.java
+
+---
