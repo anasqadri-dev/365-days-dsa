@@ -897,3 +897,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day67.java
 
 ---
+
+## ✅ Day 68
+
+- 📌 Problem: LC 49 – Group Anagrams
+- 🧠 Topic: Strings, Arrays
+- ⏱ Time Taken: 30 minutes
+- 💡 Key Learning:
+  - Grouping strings based on anagram relationships
+  - Sorting characters to detect anagrams
+  - Using a boolean array to track processed elements
+  - Practicing nested loop comparisons
+- 🔗 Solution: solutions/Day68.java
+
+---
