@@ -911,3 +911,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day68.java
 
 ---
+
+## ✅ Day 69
+
+- 📌 Problem: LC 438 – Find All Anagrams in a String
+- 🧠 Topic: Strings
+- ⏱ Time Taken: 25 minutes
+- 💡 Key Learning:
+  - Detecting anagrams using sorted character comparison
+  - Generating substrings for pattern matching
+  - Using arrays and sorting for string analysis
+  - Collecting indices of matching patterns
+- 🔗 Solution: solutions/Day69.java
+
+---
