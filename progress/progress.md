@@ -925,3 +925,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day69.java
 
 ---
+
+## ✅ Day 70
+
+- 📌 Problem: LC 76 – Minimum Window Substring
+- 🧠 Topic: Sliding Window, Two Pointers
+- ⏱ Time Taken: 45 minutes
+- 💡 Key Learning:
+  - Using sliding window technique for substring problems
+  - Tracking character frequencies using arrays
+  - Expanding and shrinking windows to find optimal solutions
+  - Maintaining minimum valid substring length
+- 🔗 Solution: solutions/Day70.java
+
+---
