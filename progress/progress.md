@@ -884,6 +884,7 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day66.java
 
 ---
+
 ## ✅ Day 67
 
 - 📌 Problem: LC 128 – Longest Consecutive Sequence
@@ -937,5 +938,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
   - Expanding and shrinking windows to find optimal solutions
   - Maintaining minimum valid substring length
 - 🔗 Solution: solutions/Day70.java
+
+---
+
+## ✅ Day 71
+
+- 📌 Problem: LC 912 – Sort an Array
+- 🧠 Topic: Merge Sort, Divide and Conquer, Recursion
+- ⏱ Time Taken: 30 minutes
+- 💡 Key Learning:
+  - Implementing merge sort without built-in functions
+  - Understanding divide and conquer strategy
+  - Splitting arrays recursively and merging sorted halves
+  - Achieving O(n log n) sorting complexity
+- 🔗 Solution: solutions/Day71.java
 
 ---
