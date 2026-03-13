@@ -954,3 +954,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day71.java
 
 ---
+
+## ✅ Day 72
+
+- 📌 Problem: LC 215 – Kth Largest Element in an Array
+- 🧠 Topic: Arrays, Sorting
+- ⏱ Time Taken: 15 minutes
+- 💡 Key Learning:
+  - Sorting an array using bubble sort
+  - Finding kth largest element using index calculation
+  - Understanding relationship between sorted order and element positions
+- 🔗 Solution: solutions/Day72.java
+
+---
