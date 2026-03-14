@@ -967,3 +967,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day72.java
 
 ---
+
+## ✅ Day 73
+
+- 📌 Problem: LC 973 – K Closest Points to Origin
+- 🧠 Topic: Arrays, Sorting
+- ⏱ Time Taken: 20 minutes
+- 💡 Key Learning:
+  - Calculating Euclidean distance for points
+  - Sorting elements based on computed values
+  - Selecting k smallest elements after sorting
+- 🔗 Solution: solutions/Day73.java
+
+---
