@@ -980,3 +980,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day73.java
 
 ---
+
+## ✅ Day 74
+
+- 📌 Problem: LC 704 – Binary Search
+- 🧠 Topic: Binary Search, Arrays
+- ⏱ Time Taken: 10 minutes
+- 💡 Key Learning:
+  - Understanding binary search on sorted arrays
+  - Reducing search space by half every iteration
+  - Using left, right, and middle pointers
+- 🔗 Solution: solutions/Day74.java
+
+---
