@@ -993,3 +993,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day74.java
 
 ---
+
+## ✅ Day 75
+
+- 📌 Problem: LC 33 – Search in Rotated Sorted Array
+- 🧠 Topic: Binary Search
+- ⏱ Time Taken: 20 minutes
+- 💡 Key Learning:
+  - Applying binary search on rotated arrays
+  - Detecting which half of the array is sorted
+  - Using conditions to narrow the search space efficiently
+- 🔗 Solution: solutions/Day75.java
+
+---
