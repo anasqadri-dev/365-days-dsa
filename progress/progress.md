@@ -1006,3 +1006,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day75.java
 
 ---
+
+## ✅ Day 76
+
+- 📌 Problem: LC 153 – Find Minimum in Rotated Sorted Array
+- 🧠 Topic: Binary Search
+- ⏱ Time Taken: 15 minutes
+- 💡 Key Learning:
+  - Using binary search to find minimum in rotated arrays
+  - Comparing middle and right elements to narrow search space
+  - Identifying pivot point in rotated sorted arrays
+- 🔗 Solution: solutions/Day76.java
+
+---
