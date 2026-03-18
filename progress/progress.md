@@ -1019,3 +1019,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day76.java
 
 ---
+
+## ✅ Day 77
+
+- 📌 Problem: LC 162 – Find Peak Element
+- 🧠 Topic: Binary Search
+- ⏱ Time Taken: 20 minutes
+- 💡 Key Learning:
+  - Using binary search to locate peak elements
+  - Understanding increasing and decreasing slopes in arrays
+  - Reducing search space using neighbor comparisons
+- 🔗 Solution: solutions/Day77.java
+
+---
