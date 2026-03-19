@@ -1032,3 +1032,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day77.java
 
 ---
+
+## ✅ Day 78
+
+- 📌 Problem: LC 658 – Find K Closest Elements
+- 🧠 Topic: Arrays, Two Pointers
+- ⏱ Time Taken: 20 minutes
+- 💡 Key Learning:
+  - Using two-pointer shrinking window approach
+  - Comparing distances from both ends
+  - Eliminating farthest elements step by step
+  - Maintaining sorted result naturally
+- 🔗 Solution: solutions/Day78.java
+
+---
