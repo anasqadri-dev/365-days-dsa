@@ -1046,3 +1046,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day78.java
 
 ---
+
+## ✅ Day 79
+
+- 📌 Problem: LC 4 – Median of Two Sorted Arrays
+- 🧠 Topic: Arrays, Two Pointers
+- ⏱ Time Taken: 25 minutes
+- 💡 Key Learning:
+  - Merging two sorted arrays
+  - Handling even and odd length cases for median
+  - Understanding trade-off between clarity and optimal approach
+  - Building solution step-by-step before optimization
+- 🔗 Solution: solutions/Day79.java
+
+---
