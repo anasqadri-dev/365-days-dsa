@@ -1060,3 +1060,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day79.java
 
 ---
+
+## ✅ Day 80
+
+- 📌 Problem: LC 167 – Two Sum II – Input Array Is Sorted
+- 🧠 Topic: Two Pointers
+- ⏱ Time Taken: 15 minutes
+- 💡 Key Learning:
+  - Using two pointer technique on sorted arrays
+  - Moving pointers based on sum comparison
+  - Achieving O(n) time and O(1) space solution
+- 🔗 Solution: solutions/Day80.java
+
+---
