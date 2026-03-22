@@ -1073,3 +1073,16 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day80.java
 
 ---
+
+## ✅ Day 81
+
+- 📌 Problem: LC 15 – 3Sum
+- 🧠 Topic: Sorting + Two Pointers
+- ⏱ Time Taken: 40 minutes
+- 💡 Key Learning:
+  - Reduce O(n³) → O(n²)
+  - Sorting helps apply two pointer technique
+  - Important to skip duplicates
+- 🔗 Solution: solutions/Day81.java
+
+---
