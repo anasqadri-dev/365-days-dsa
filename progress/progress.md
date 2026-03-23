@@ -1086,3 +1086,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day81.java
 
 ---
+
+## ✅ Day 82
+
+- 📌 Problem: LC 18 – 4Sum
+- 🧠 Topic: Sorting + Two Pointers
+- ⏱ Time Taken: 45 minutes
+- 💡 Key Learning:
+  - 4Sum is extension of 3Sum
+  - General k-Sum pattern
+  - Integer overflow handling using long
+  - Skipping duplicates is important
+- 🔗 Solution: solutions/Day82.java
+
+---
