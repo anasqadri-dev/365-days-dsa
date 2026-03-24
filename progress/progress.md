@@ -1100,3 +1100,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day82.java
 
 ---
+
+## ✅ Day 83
+
+- 📌 Problem: LC 209 – Minimum Size Subarray Sum
+- 🧠 Topic: Sliding Window
+- ⏱ Time Taken: 25 minutes
+- 💡 Key Learning:
+  - Sliding window reduces O(n²) → O(n)
+  - Expand window when sum < target
+  - Shrink window when sum ≥ target
+  - Used for subarray/substring problems
+- 🔗 Solution: solutions/Day83.java
+
+---
