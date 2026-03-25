@@ -1114,3 +1114,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day83.java
 
 ---
+
+## ✅ 84
+
+- 📌 Problem: LeetCode 487 — Max Consecutive Ones II
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Sliding Window, Array
+- ⏱ Time Taken: 17 Minutes
+- 💡 Approach:
+  - Maintain sliding window with at most one zero
+  - Expand right, shrink left when zero count exceeds 1
+  - Track maximum window length
+- 🔗 Solution: solutions/Day84.java
+
+---
