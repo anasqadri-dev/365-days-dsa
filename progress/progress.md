@@ -1121,10 +1121,24 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🧩 Difficulty: Medium
 - 🧠 Topic: Sliding Window, Array
 - ⏱ Time Taken: 17 Minutes
-- 💡 Approach:
+- 💡 Key Learning:
   - Maintain sliding window with at most one zero
   - Expand right, shrink left when zero count exceeds 1
   - Track maximum window length
 - 🔗 Solution: solutions/Day84.java
+
+---
+
+## ✅ 85
+
+- 📌 Problem: LeetCode 424 — Longest Repeating Character Replacement
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Sliding Window, HashMap / Frequency Array
+- ⏱ Time Taken: 22 Minutes
+- 💡 Key Learning:
+  - Track most frequent character in current window
+  - If (window size - max frequency) > k → shrink window
+  - This keeps window valid while maximizing length
+- 🔗 Solution: solutions/Day85.java
 
 ---
