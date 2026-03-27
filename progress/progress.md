@@ -1142,3 +1142,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day85.java
 
 ---
+
+## ✅ 86
+
+- 📌 Problem: LeetCode 875 — Koko Eating Bananas
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Search on Answer
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Apply binary search on eating speed (k), not on array
+  - For each speed, calculate total hours needed
+  - Use ceiling division: (pile + k - 1) / k
+  - If hours <= h, try smaller speed
+  - Else increase speed
+- 🔗 Solution: solutions/Day86.java
+
+---
