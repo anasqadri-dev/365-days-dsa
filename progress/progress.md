@@ -1158,3 +1158,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day86.java
 
 ---
+
+## ✅ 87
+
+- 📌 Problem: LeetCode 1011 — Capacity To Ship Packages Within D Days
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Search on Answer, Simulation
+- ⏱ Time Taken: 27 Minutes
+- 💡 Key Learning:
+  - Binary Search on minimum ship capacity
+  - Minimum capacity = max(weights), Maximum = sum(weights)
+  - For each mid capacity, simulate shipping to count days
+  - Adjust search range based on simulation
+
+- 🔗 Solution: solutions/Day87.java
+
+---
