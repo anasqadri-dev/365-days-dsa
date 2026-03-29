@@ -1170,7 +1170,22 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
   - Minimum capacity = max(weights), Maximum = sum(weights)
   - For each mid capacity, simulate shipping to count days
   - Adjust search range based on simulation
-
 - 🔗 Solution: solutions/Day87.java
+
+---
+
+## ✅ 88
+
+- 📌 Problem: Minimize Max Distance to Gas Station
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Binary Search on Answer (Floating Point)
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Binary search can be applied on decimal values
+  - Search space is distance (not index or integer)
+  - For each distance, calculate required stations
+  - stationsNeeded += gap / maxDist
+  - Use precision condition: (high - low > 1e-6)
+- 🔗 Solution: solutions/Day88.java
 
 ---
