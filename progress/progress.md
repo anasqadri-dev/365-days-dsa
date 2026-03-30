@@ -1189,3 +1189,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day88.java
 
 ---
+
+## ✅ 89
+
+- 📌 Problem: LeetCode 1482 — Minimum Number of Days to Make m Bouquets
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Search on Answer, Greedy
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Binary search on minimum day
+  - For each day, count consecutive bloomed flowers
+  - When flowers == k, form bouquet and reset counter
+  - Reset counter when flower has not bloomed
+  - Edge case: if m \* k > n → impossible
+- 🔗 Solution: solutions/Day89.java
+
+---
