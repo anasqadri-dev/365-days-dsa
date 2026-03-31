@@ -1205,3 +1205,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day89.java
 
 ---
+
+## ✅ 90
+
+- 📌 Problem: LeetCode 2064 — Minimized Maximum of Products Distributed to Any Store
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Search on Answer
+- ⏱ Time Taken: 28 Minutes
+- 💡 Key Learning:
+  - Binary search on maximum products per store
+  - For each x, calculate required stores using ceiling division
+  - stores += (q + x - 1) / x
+  - If stores <= n → valid distribution
+  - Minimize the maximum value
+- 🔗 Solution: solutions/Day90.java
+
+---
