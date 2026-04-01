@@ -1221,3 +1221,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day90.java
 
 ---
+
+## ✅ 91
+
+- 📌 Problem: LeetCode 1552 — Magnetic Force Between Two Balls
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Search on Answer, Greedy
+- ⏱ Time Taken: 26 Minutes
+- 💡 Key Learning:
+  - Binary search on minimum distance
+  - Greedy placement: always place next ball at earliest valid position
+  - If we can place all balls with distance d → try larger distance
+  - This is similar to Aggressive Cows problem
+- 🔗 Solution: solutions/Day91.java
+
+---
