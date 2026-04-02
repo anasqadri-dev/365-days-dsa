@@ -1236,3 +1236,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day91.java
 
 ---
+
+## ✅ 92
+
+- 📌 Problem: LeetCode 719 — Find K-th Smallest Pair Distance
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Binary Search on Answer, Sliding Window
+- ⏱ Time Taken: 40 Minutes
+- 💡 Key Learning:
+  - Binary search on pair distance
+  - For each distance, count pairs with distance <= mid
+  - Use sliding window to count pairs in O(n)
+  - If pairCount >= k, search smaller distance
+- 🔗 Solution: solutions/Day92.java
+
+---
