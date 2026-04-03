@@ -1251,3 +1251,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day92.java
 
 ---
+
+## ✅ 93
+
+- 📌 Problem: LeetCode 1760 — Minimum Limit of Balls in a Bag
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Search on Answer
+- ⏱ Time Taken: 24 Minutes
+- 💡 Key Learning:
+  - Binary search on maximum bag size (penalty)
+  - For each max size x, calculate operations needed
+  - operations += (balls - 1) / x
+  - If operations <= maxOperations → valid
+  - Goal is to minimize the maximum value
+- 🔗 Solution: solutions/Day93.java
+
+---
