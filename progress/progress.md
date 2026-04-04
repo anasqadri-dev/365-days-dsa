@@ -1267,3 +1267,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day93.java
 
 ---
+
+## ✅ 94
+
+- 📌 Problem: LeetCode 240 — Search a 2D Matrix II
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Matrix Traversal
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Use top-right corner traversal
+  - If current > target → move left
+  - If current < target → move down
+  - Eliminates one row or column each step
+  - Time complexity becomes O(n + m)
+- 🔗 Solution: solutions/Day94.java
+
+---
