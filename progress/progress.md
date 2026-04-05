@@ -1283,3 +1283,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day94.java
 
 ---
+
+## ✅ 95
+
+- 📌 Problem: LeetCode 74 — Search a 2D Matrix
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Search, Matrix
+- ⏱ Time Taken: 18 Minutes
+- 💡 Key Learning:
+  - Matrix can be treated as a sorted 1D array
+  - Convert mid index to row and column
+  - row = mid / cols, col = mid % cols
+  - Apply standard binary search
+- 🔗 Solution: solutions/Day95.java
+
+---
