@@ -1298,3 +1298,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day95.java
 
 ---
+
+## ✅ 96
+
+- 📌 Problem: LeetCode 567 — Permutation in String
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Sliding Window, Hashing, String
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Use sliding window of size s1.length()
+  - Maintain frequency arrays
+  - Add new char and remove old char while sliding
+  - If both frequency arrays match → permutation exists
+- 🔗 Solution: solutions/Day96.java
+
+---
