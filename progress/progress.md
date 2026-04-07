@@ -1313,3 +1313,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day96.java
 
 ---
+
+## ✅ 97
+
+- 📌 Problem: LeetCode 3 — Longest Substring Without Repeating Characters
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Sliding Window, Hashing, String
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Use sliding window to maintain a substring without duplicates
+  - Track last seen index of each character
+  - If duplicate appears, move left pointer after previous occurrence
+  - Continuously update maximum window length
+- 🔗 Solution: solutions/Day97.java
+
+---
