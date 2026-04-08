@@ -1328,3 +1328,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day97.java
 
 ---
+
+## ✅ 98
+
+- 📌 Problem: LeetCode 1004 — Max Consecutive Ones III
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Sliding Window, Array
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Use sliding window to maintain at most k zeros
+  - Expand window with right pointer
+  - Shrink window when zero count exceeds k
+  - Track the maximum valid window length
+- 🔗 Solution: solutions/Day98.java
+
+---
