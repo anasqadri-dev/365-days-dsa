@@ -1343,3 +1343,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day98.java
 
 ---
+
+## ✅ 99
+
+- 📌 Problem: LeetCode 239 — Sliding Window Maximum
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Sliding Window, Deque, Array
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Use a monotonic deque to maintain candidates for maximum
+  - Remove indices outside the current window
+  - Remove smaller elements from the back
+  - Front of the deque always gives the maximum element
+- 🔗 Solution: solutions/Day99.java
+
+---
