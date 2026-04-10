@@ -1358,3 +1358,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day99.java
 
 ---
+
+## ✅ 100 — 🎯 MILESTONE: 100 DAYS COMPLETE 🎯
+
+- 📌 Problem: LeetCode 480 — Sliding Window Median
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Sliding Window, Sorting, Median, Array
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Median requires order statistics, unlike max which only needs the largest
+  - Sorted window approach is intuitive: remove old, insert new, re-sort
+  - For odd k → middle element (index k/2)
+  - For even k → average of two middle elements (indices k/2 and k/2 - 1)
+  - This is O(n·k log k) — optimal solutions use two heaps (lazy removal)
+  - Understanding the brute force helps appreciate advanced approaches
+- 🔗 Solution: solutions/Day100.java
+
+---
