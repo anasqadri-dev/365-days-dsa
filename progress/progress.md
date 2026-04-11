@@ -1375,3 +1375,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day100.java
 
 ---
+
+## ✅ 101
+
+- 📌 Problem: LeetCode 930 — Binary Subarrays With Sum
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Sliding Window, Prefix Technique, Array
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Convert exact sum problem into "at most" subarray counts
+  - Use sliding window to count subarrays with sum ≤ k
+  - Exact count = atMost(goal) − atMost(goal − 1)
+  - Efficient trick for binary array sum problems
+- 🔗 Solution: solutions/Day101.java
+
+---
