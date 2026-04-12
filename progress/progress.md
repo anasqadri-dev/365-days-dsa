@@ -1390,3 +1390,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day101.java
 
 ---
+
+## ✅ 102
+
+- 📌 Problem: LeetCode 1248 — Count Number of Nice Subarrays
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Sliding Window, Array
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Convert exact count problem into "at most" counts
+  - Use sliding window to track number of odd elements
+  - Shrink window when odd count exceeds k
+  - exact(k) = atMost(k) − atMost(k − 1)
+- 🔗 Solution: solutions/Day102.java
+
+---
