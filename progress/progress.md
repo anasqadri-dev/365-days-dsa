@@ -1405,3 +1405,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day102.java
 
 ---
+
+## ✅ 103
+
+- 📌 Problem: LeetCode 713 — Subarray Product Less Than K
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Sliding Window, Array
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Use sliding window for product-based constraints
+  - Expand window by multiplying elements
+  - Shrink window when product ≥ k
+  - Count valid subarrays ending at each index
+- 🔗 Solution: solutions/Day103.java
+
+---
