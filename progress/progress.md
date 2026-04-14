@@ -1420,3 +1420,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day103.java
 
 ---
+
+## ✅ 104
+
+- 📌 Problem: LeetCode 862 — Shortest Subarray with Sum at Least K
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Prefix Sum, Monotonic Deque, Array
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Sliding window fails when negative numbers are present
+  - Use prefix sum to convert subarray sum problem
+  - Use monotonic deque to maintain increasing prefix sums
+  - Efficiently find shortest valid subarray
+- 🔗 Solution: solutions/Day104.java
+
+---
