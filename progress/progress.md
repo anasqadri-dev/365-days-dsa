@@ -1435,3 +1435,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day104.java
 
 ---
+
+## ✅ 105
+
+- 📌 Problem: LeetCode 992 — Subarrays with K Different Integers
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Sliding Window, HashMap, Array
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Use hashmap to track frequency of elements
+  - Maintain window with at most k distinct elements
+  - Shrink window when distinct count exceeds k
+  - exact(k) = atMost(k) − atMost(k − 1)
+- 🔗 Solution: solutions/Day105.java
+
+---
