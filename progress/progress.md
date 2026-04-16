@@ -1450,3 +1450,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day105.java
 
 ---
+
+## ✅ 106
+
+- 📌 Problem: LeetCode 1493 — Longest Subarray of 1's After Deleting One Element
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Sliding Window, Array
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Convert deletion into allowing at most one zero
+  - Use sliding window to maintain valid range
+  - Shrink window when zero count exceeds 1
+  - Track maximum length excluding one element
+- 🔗 Solution: solutions/Day106.java
+
+---
