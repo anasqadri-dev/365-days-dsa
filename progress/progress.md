@@ -1465,3 +1465,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day106.java
 
 ---
+
+## ✅ 107
+
+- 📌 Problem: LeetCode 1658 — Minimum Operations to Reduce X to Zero
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Sliding Window, Array
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Transform problem into finding longest subarray
+  - Target = totalSum − x
+  - Use sliding window to find subarray with given sum
+  - Result = total length − max subarray length
+- 🔗 Solution: solutions/Day107.java
+
+---
