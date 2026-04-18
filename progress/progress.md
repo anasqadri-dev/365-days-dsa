@@ -1480,3 +1480,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day107.java
 
 ---
+
+## ✅ 108
+
+- 📌 Problem: LeetCode 904 — Fruit Into Baskets
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Sliding Window, Hashing, Array
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Maintain window with at most 2 distinct elements
+  - Track frequency of elements in window
+  - Shrink window when distinct types exceed limit
+  - Equivalent to longest subarray with at most k distinct elements
+- 🔗 Solution: solutions/Day108.java
+
+---
