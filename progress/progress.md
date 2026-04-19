@@ -1495,3 +1495,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day108.java
 
 ---
+
+## ✅ 109
+
+- 📌 Problem: LeetCode 1838 — Frequency of the Most Frequent Element
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Sliding Window, Sorting, Array
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Sort array to align elements
+  - Use sliding window to group elements
+  - Maintain total sum of window
+  - Check operations needed to make all elements equal
+- 🔗 Solution: solutions/Day109.java
+
+---
