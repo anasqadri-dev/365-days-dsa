@@ -1510,3 +1510,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day109.java
 
 ---
+
+## ✅ 110
+
+- 📌 Problem: LeetCode 1438 — Longest Continuous Subarray With Absolute Diff ≤ Limit
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Sliding Window, Monotonic Deque, Array
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Maintain max and min using two monotonic deques
+  - Get max and min in O(1) time
+  - Shrink window when condition breaks
+  - Useful for range-based constraints
+- 🔗 Solution: solutions/Day110.java
+
+---
