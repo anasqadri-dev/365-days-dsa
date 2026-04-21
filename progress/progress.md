@@ -1525,3 +1525,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day110.java
 
 ---
+
+## ✅ 111
+
+- 📌 Problem: LeetCode 19 — Remove Nth Node From End of List
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Convert problem using size of linked list
+  - Handle edge case when removing head
+  - Traverse to node before target
+  - Update pointers to remove node
+- 🔗 Solution: solutions/Day111.java
+
+---
