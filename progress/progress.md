@@ -1540,3 +1540,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day111.java
 
 ---
+
+## ✅ 112
+
+- 📌 Problem: LeetCode 2 — Add Two Numbers
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Simulate addition using carry
+  - Traverse both lists together
+  - Handle unequal lengths
+  - Use dummy node for easier construction
+- 🔗 Solution: solutions/Day112.java
+
+---
