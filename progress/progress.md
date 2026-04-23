@@ -1555,3 +1555,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day112.java
 
 ---
+
+## ✅ 113
+
+- 📌 Problem: LeetCode 21 — Merge Two Sorted Lists
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Linked List, Two Pointers
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Use dummy node for easier list construction
+  - Compare nodes using two pointers
+  - Maintain sorted order while merging
+  - Attach remaining nodes after one list ends
+- 🔗 Solution: solutions/Day113.java
+
+---
