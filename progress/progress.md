@@ -1570,3 +1570,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day113.java
 
 ---
+
+## ✅ 114
+
+- 📌 Problem: LeetCode 24 — Swap Nodes in Pairs
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Use dummy node for easier pointer handling
+  - Swap nodes by changing links, not values
+  - Carefully track previous and next nodes
+  - Move pointer pair by pair
+- 🔗 Solution: solutions/Day114.java
+
+---
