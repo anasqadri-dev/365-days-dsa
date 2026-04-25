@@ -1585,3 +1585,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day114.java
 
 ---
+
+## ✅ 115
+
+- 📌 Problem: LeetCode 92 — Reverse Linked List II
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Use dummy node to handle edge cases
+  - Reverse a sublist in-place
+  - Carefully reconnect reversed portion
+  - Maintain correct pointers during reversal
+- 🔗 Solution: solutions/Day115.java
+
+---
