@@ -1600,3 +1600,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day115.java
 
 ---
+
+## ✅ 116
+
+- 📌 Problem: LeetCode 61 — Rotate List
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Convert list into circular linked list
+  - Use modulo to reduce unnecessary rotations
+  - Find new tail and break the cycle
+  - Efficient rotation without extra space
+- 🔗 Solution: solutions/Day116.java
+
+---
