@@ -1615,3 +1615,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day116.java
 
 ---
+
+## ✅ 117
+
+- 📌 Problem: LeetCode 138 — Copy List with Random Pointer
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List, HashMap
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Use hashmap to store mapping of original to copied nodes
+  - Create nodes in first pass
+  - Assign next and random pointers in second pass
+  - Ensure deep copy (no reference to original list)
+- 🔗 Solution: solutions/Day117.java
+
+---
