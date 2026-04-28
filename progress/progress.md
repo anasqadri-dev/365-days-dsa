@@ -1630,3 +1630,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day117.java
 
 ---
+
+## ✅ 118
+
+- 📌 Problem: LeetCode 146 — LRU Cache
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Design, HashMap, Doubly Linked List
+- ⏱ Time Taken: 40 Minutes
+- 💡 Key Learning:
+  - Combine HashMap and Doubly Linked List
+  - Maintain order of usage efficiently
+  - Move accessed nodes to front
+  - Remove least recently used from tail
+- 🔗 Solution: solutions/Day118.java
+
+---
