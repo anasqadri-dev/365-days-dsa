@@ -1645,3 +1645,31 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day118.java
 
 ---
+
+## ✅ 119
+
+- 📌 Problem: LeetCode 25 — Reverse Nodes in k-Group
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Linked List
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Reverse nodes in groups of k
+  - Check availability of k nodes before reversing
+  - Maintain connections between groups
+- 🔗 Solution: solutions/Day119.java
+
+---
+
+## ✅ 120
+
+- 📌 Problem: LeetCode 142 — Linked List Cycle II
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List, Two Pointers
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Use Floyd’s cycle detection
+  - Find cycle length
+  - Use two pointers to locate cycle start
+- 🔗 Solution: solutions/Day120.java
+
+---
