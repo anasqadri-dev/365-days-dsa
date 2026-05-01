@@ -1673,3 +1673,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day120.java
 
 ---
+
+## ✅ 121
+
+- 📌 Problem: LeetCode 148 — Sort List
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List, Merge Sort
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Use merge sort for linked list
+  - Find middle using slow & fast pointers
+  - Split list into halves
+  - Merge sorted lists efficiently
+- 🔗 Solution: solutions/Day121.java
+
+---
