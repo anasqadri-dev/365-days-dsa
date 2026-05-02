@@ -1688,3 +1688,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day121.java
 
 ---
+
+## ✅ 122
+
+- 📌 Problem: LeetCode 143 — Reorder List
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Combine multiple patterns in one problem
+  - Find middle of linked list
+  - Reverse second half
+  - Merge two halves alternately
+- 🔗 Solution: solutions/Day122.java
+
+---
