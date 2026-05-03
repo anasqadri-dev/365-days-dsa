@@ -1703,3 +1703,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day122.java
 
 ---
+
+## ✅ 123
+
+- 📌 Problem: LeetCode 328 — Odd Even Linked List
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Separate odd and even indexed nodes
+  - Maintain two pointer chains
+  - Preserve relative order within groups
+  - Reconnect lists in O(1) space
+- 🔗 Solution: solutions/Day123.java
+
+---
