@@ -1718,3 +1718,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day123.java
 
 ---
+
+## ✅ 124
+
+- 📌 Problem: LeetCode 430 — Flatten a Multilevel Doubly Linked List
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List, DFS, Recursion
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Use DFS to flatten child lists
+  - Insert child list between current and next
+  - Maintain prev and next pointers carefully
+  - Return tail to reconnect structure
+- 🔗 Solution: solutions/Day124.java
+
+---
