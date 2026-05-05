@@ -1733,3 +1733,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day124.java
 
 ---
+
+## ✅ 125
+
+- 📌 Problem: LeetCode 1171 — Remove Zero Sum Consecutive Nodes
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List, Prefix Sum
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Use running sum to detect zero-sum sequences
+  - Remove sublists dynamically
+  - Dummy node helps handle edge cases
+  - Repeated removal until stable
+- 🔗 Solution: solutions/Day125.java
+
+---
