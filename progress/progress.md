@@ -1748,3 +1748,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day125.java
 
 ---
+
+## ✅ 126
+
+- 📌 Problem: LeetCode 1721 — Swapping Nodes in a Linked List
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List, Two Pointers
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Find kth node from start
+  - Use two-pointer trick to find kth from end
+  - Swap values efficiently in one pass
+  - Avoid extra space
+- 🔗 Solution: solutions/Day126.java
+
+---
