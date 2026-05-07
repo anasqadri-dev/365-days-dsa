@@ -1763,3 +1763,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day126.java
 
 ---
+
+## ✅ 127
+
+- 📌 Problem: LeetCode 109 — Convert Sorted List to Binary Search Tree
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List, Binary Search Tree, Recursion
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Middle node becomes BST root
+  - Use slow & fast pointers to find middle
+  - Recursively build left and right subtrees
+  - Create height-balanced BST from sorted list
+- 🔗 Solution: solutions/Day127.java
+
+---
