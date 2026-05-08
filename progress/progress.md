@@ -1778,3 +1778,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day127.java
 
 ---
+
+## ✅ 128
+
+- 📌 Problem: LeetCode 1669 — Merge In Between Linked Lists
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Find node before index a
+  - Find node after index b
+  - Connect list2 between both nodes
+  - Pointer stitching is the main idea
+- 🔗 Solution: solutions/Day128.java
+
+---
