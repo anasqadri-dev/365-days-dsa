@@ -1793,3 +1793,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day128.java
 
 ---
+
+## ✅ 129
+
+- 📌 Problem: LeetCode 725 — Split Linked List in Parts
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List, Math
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Count total nodes first
+  - Use division and remainder for equal split
+  - First extra parts get one additional node
+  - Cut linked list carefully using pointers
+- 🔗 Solution: solutions/Day129.java
+
+---
