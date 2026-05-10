@@ -1808,3 +1808,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day129.java
 
 ---
+
+## ✅ 130
+
+- 📌 Problem: LeetCode 147 — Insertion Sort List
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List, Sorting
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Build a sorted linked list incrementally
+  - Find correct insertion position for each node
+  - Use dummy node to simplify insertion logic
+  - Apply insertion sort directly on linked list
+- 🔗 Solution: solutions/Day130.java
+
+---
