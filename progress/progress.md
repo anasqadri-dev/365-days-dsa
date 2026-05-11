@@ -1823,3 +1823,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day130.java
 
 ---
+
+## ✅ 131
+
+- 📌 Problem: LeetCode 707 — Design Linked List
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List, Design
+- ⏱ Time Taken: 45 Minutes
+- 💡 Key Learning:
+  - Build linked list from scratch
+  - Implement insertion and deletion operations
+  - Maintain head pointer and size variable
+  - Handle edge cases carefully
+  - Strengthened understanding of pointer manipulation
+- 🔗 Solution: solutions/Day131.java
+
+---
