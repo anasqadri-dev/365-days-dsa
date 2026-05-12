@@ -1839,3 +1839,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day131.java
 
 ---
+
+## ✅ 132
+
+- 📌 Problem: LeetCode 2487 — Remove Nodes From Linked List
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List, Greedy
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Reverse linked list to simplify right-side comparisons
+  - Maintain maximum value seen so far
+  - Remove nodes using pointer manipulation
+  - Reverse again to restore original order
+- 🔗 Solution: solutions/Day132.java
+
+---
