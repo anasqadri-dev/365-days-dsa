@@ -1854,3 +1854,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day132.java
 
 ---
+
+## ✅ 133
+
+- 📌 Problem: LeetCode 1019 — Next Greater Node In Linked List
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Linked List, Stack, Monotonic Stack
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Convert linked list into array for easier traversal
+  - Apply Next Greater Element pattern
+  - Use monotonic stack to solve efficiently
+  - Store indexes whose answer is pending
+- 🔗 Solution: solutions/Day133.java
+
+---
