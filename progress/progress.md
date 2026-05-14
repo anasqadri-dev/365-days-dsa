@@ -1869,3 +1869,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day133.java
 
 ---
+
+## ✅ 134
+
+- 📌 Problem: LeetCode 1290 — Convert Binary Number in a Linked List to Integer
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Linked List, Math, Binary
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Convert binary representation into decimal
+  - Traverse linked list while tracking powers of 2
+  - Apply basic binary number concepts
+  - Strengthened linked list traversal fundamentals
+- 🔗 Solution: solutions/Day134.java
+
+---
