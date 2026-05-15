@@ -1884,3 +1884,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day134.java
 
 ---
+
+## ✅ 135
+
+- 📌 Problem: LeetCode 20 — Valid Parentheses
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Stack, String
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Use stack for bracket matching problems
+  - Understand LIFO behavior in practical scenarios
+  - Validate ordering of parentheses efficiently
+  - Handle invalid cases using stack checks
+- 🔗 Solution: solutions/Day135.java
+
+---
