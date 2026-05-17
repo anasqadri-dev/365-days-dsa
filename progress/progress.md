@@ -1914,3 +1914,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day136.java
 
 ---
+
+## ✅ 136
+
+- 📌 Problem: LeetCode 155 — Min Stack
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Stack, Design
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Design custom stack data structures
+  - Maintain minimum values efficiently
+  - Use auxiliary stacks for optimization
+  - Achieve O(1) stack operations
+- 🔗 Solution: solutions/Day136.java
+
+---
