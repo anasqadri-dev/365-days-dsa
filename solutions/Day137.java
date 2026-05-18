@@ -1,30 +1,28 @@
 class Day137 {
-    int[] mainStack;
-    int[] minStack;
-    int topIndex;
-    int minTopIndex;
-    public MinStack() {
-        mainStack = new int[10000];
-        minStack = new int[10000];
-        topIndex = -1;
-        minTopIndex = -1;
+    Stack<Integer> s1;
+    Stack<Integer> s2;
+    public MyQueue() {
+        s1 = new Stack<>();
+        s2 = new Stack<>();
     }
-    public void push(int value) {
-        topIndex++;
-        mainStack[topIndex] = value;
-        if (minTopIndex == -1 || value <= minStack[minTopIndex]) {
-            minTopIndex++;
-            minStack[minTopIndex] = value;
+    public void push(int x) {
+        s1.push(x);
+    }
+    public int pop() {
+        if (empty()) return -1;
+        peek();
+        return s2.pop();
+    }
+    public int peek() {
+        if (empty()) return -1;
+        if (s2.isEmpty()) {
+            while (!(s1.isEmpty())) {
+                s2.push(s1.pop());
+            }
         }
+        return s2.peek();
     }
-    public void pop() {
-        if (mainStack[topIndex] == minStack[minTopIndex]) minTopIndex--;
-        topIndex--;
-    }
-    public int top() {
-        return mainStack[topIndex];
-    }
-    public int getMin() {
-        return minStack[minTopIndex];
+    public boolean empty() {
+        return s1.isEmpty() && s2.isEmpty();
     }
 }

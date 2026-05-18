@@ -1915,17 +1915,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 
 ---
 
-## ✅ 136
+## ✅ 137
 
-- 📌 Problem: LeetCode 155 — Min Stack
-- 🧩 Difficulty: Medium
-- 🧠 Topic: Stack, Design
-- ⏱ Time Taken: 30 Minutes
+- 📌 Problem: LeetCode 232 — Implement Queue using Stacks
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Stack, Queue, Design
+- ⏱ Time Taken: 25 Minutes
 - 💡 Key Learning:
-  - Design custom stack data structures
-  - Maintain minimum values efficiently
-  - Use auxiliary stacks for optimization
-  - Achieve O(1) stack operations
-- 🔗 Solution: solutions/Day136.java
+  - Simulate queue behavior using stacks
+  - Understand FIFO vs LIFO concepts
+  - Apply lazy transfer optimization
+  - Use multiple stacks efficiently
+- 🔗 Solution: solutions/Day137.java
 
 ---
