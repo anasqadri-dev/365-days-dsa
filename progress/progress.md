@@ -1929,3 +1929,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day137.java
 
 ---
+
+## ✅ 138
+
+- 📌 Problem: LeetCode 225 — Implement Stack using Queues
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Stack, Queue, Design
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Simulate stack behavior using queues
+  - Understand FIFO vs LIFO concepts deeply
+  - Use helper queues for reordering
+  - Explore trade-offs between push and pop operations
+- 🔗 Solution: solutions/Day138.java
+
+---
