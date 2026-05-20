@@ -1944,3 +1944,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day138.java
 
 ---
+
+## ✅ 139
+
+- 📌 Problem: LeetCode 496 — Next Greater Element I
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Stack, Monotonic Stack, Array
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Understand monotonic stack concepts
+  - Solve next greater element problems efficiently
+  - Use stacks for array processing
+  - Handle unresolved elements using default values
+- 🔗 Solution: solutions/Day139.java
+
+---
