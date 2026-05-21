@@ -1959,3 +1959,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day139.java
 
 ---
+
+## ✅ 140
+
+- 📌 Problem: LeetCode 682 — Baseball Game
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Stack, Simulation, Array
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Simulate operations using stacks
+  - Manage previous states efficiently
+  - Process sequential commands step by step
+  - Use stack top values for calculations
+- 🔗 Solution: solutions/Day140.java
+
+---
