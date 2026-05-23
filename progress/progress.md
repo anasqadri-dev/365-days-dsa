@@ -2004,3 +2004,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day142.java
 
 ---
+
+## ✅ 143
+
+- 📌 Problem: LeetCode 933 — Number of Recent Calls
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Queue, Sliding Window
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Apply sliding window concepts using queues
+  - Manage time-based requests efficiently
+  - Remove outdated elements dynamically
+  - Simulate real-world request systems
+- 🔗 Solution: solutions/Day143.java
+
+---
