@@ -1989,3 +1989,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day141.java
 
 ---
+
+## ✅ 142
+
+- 📌 Problem: LeetCode 1021 — Remove Outermost Parentheses
+- 🧩 Difficulty: Easy
+- 🧠 Topic: String, Parentheses
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Understand primitive parentheses strings
+  - Track nesting depth efficiently
+  - Remove outermost layers using counters
+  - Improve string traversal logic
+- 🔗 Solution: solutions/Day142.java
+
+---
