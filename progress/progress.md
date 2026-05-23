@@ -1974,3 +1974,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day140.java
 
 ---
+
+## ✅ 141
+
+- 📌 Problem: LeetCode 1047 — Remove All Adjacent Duplicates In String
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Stack, String
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Use stacks for string manipulation problems
+  - Remove adjacent duplicates efficiently
+  - Simulate repeated deletions in linear time
+  - Build optimized string-processing solutions
+- 🔗 Solution: solutions/Day141.java
+
+---
