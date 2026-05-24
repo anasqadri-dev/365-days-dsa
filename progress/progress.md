@@ -2019,3 +2019,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day143.java
 
 ---
+
+## ✅ 144
+
+- 📌 Problem: LeetCode 394 — Decode String
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Stack, String, Parsing
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Decode nested encoded strings using stacks
+  - Manage repeat counts and substrings efficiently
+  - Handle recursive-like structures iteratively
+  - Improve string parsing techniques
+- 🔗 Solution: solutions/Day144.java
+
+---
