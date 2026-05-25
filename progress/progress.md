@@ -2034,3 +2034,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day144.java
 
 ---
+
+## ✅ 145
+
+- 📌 Problem: LeetCode 739 — Daily Temperatures
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Stack, Monotonic Stack, Array
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Apply monotonic stack techniques
+  - Use indices for efficient calculations
+  - Solve next greater element variations
+  - Optimize array traversal to linear time
+- 🔗 Solution: solutions/Day145.java
+
+---
