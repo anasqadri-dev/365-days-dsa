@@ -2049,3 +2049,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day145.java
 
 ---
+
+## ✅ 146
+
+- 📌 Problem: LeetCode 735 — Asteroid Collision
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Stack, Simulation, Array
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Simulate collisions using stacks
+  - Handle multiple conditional cases carefully
+  - Track surviving elements efficiently
+  - Apply stack patterns in simulation problems
+- 🔗 Solution: solutions/Day146.java
+
+---
