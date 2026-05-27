@@ -2064,3 +2064,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day146.java
 
 ---
+
+## ✅ 147
+
+- 📌 Problem: LeetCode 84 — Largest Rectangle in Histogram
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Stack, Monotonic Stack, Array
+- ⏱ Time Taken: 50 Minutes
+- 💡 Key Learning:
+  - Apply monotonic stack techniques for range problems
+  - Find previous and next smaller elements efficiently
+  - Optimize histogram area calculations
+  - Solve advanced stack-based problems in linear time
+- 🔗 Solution: solutions/Day147.java
+
+---
