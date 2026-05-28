@@ -2079,3 +2079,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day147.java
 
 ---
+
+## ✅ 148
+
+- 📌 Problem: LeetCode 901 — Online Stock Span
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Stack, Monotonic Stack
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Use monotonic stacks for span problems
+  - Merge ranges efficiently using stored spans
+  - Optimize real-time processing operations
+  - Apply amortized analysis in stack problems
+- 🔗 Solution: solutions/Day148.java
+
+---
