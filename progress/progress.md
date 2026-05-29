@@ -2094,3 +2094,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day148.java
 
 ---
+
+## ✅ 149
+
+- 📌 Problem: LeetCode 503 — Next Greater Element II
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Stack, Monotonic Stack, Circular Array
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Handle circular arrays efficiently
+  - Apply monotonic stack techniques
+  - Use modulo operations for circular traversal
+  - Solve next greater element variations in linear time
+- 🔗 Solution: solutions/Day149.java
+
+---
