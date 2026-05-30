@@ -2109,3 +2109,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day149.java
 
 ---
+
+## ✅ 150
+
+- 📌 Problem: LeetCode 907 — Sum of Subarray Minimums
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Stack, Monotonic Stack, Array
+- ⏱ Time Taken: 45 Minutes
+- 💡 Key Learning:
+  - Apply contribution techniques to array problems
+  - Find Previous and Next Smaller Elements efficiently
+  - Use monotonic stacks for range calculations
+  - Optimize subarray computations from quadratic to linear time
+- 🔗 Solution: solutions/Day150.java
+
+---
