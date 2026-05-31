@@ -2124,3 +2124,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day150.java
 
 ---
+
+## ✅ 151
+
+- 📌 Problem: LeetCode 456 — 132 Pattern
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Stack, Monotonic Stack, Array
+- ⏱ Time Taken: 40 Minutes
+- 💡 Key Learning:
+  - Detect patterns efficiently using a monotonic stack
+  - Traverse arrays from right to left for future element information
+  - Maintain candidate values for pattern matching
+  - Optimize pattern detection from brute force to linear time
+- 🔗 Solution: solutions/Day151.java
+
+---
