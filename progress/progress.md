@@ -2139,3 +2139,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day151.java
 
 ---
+
+## ✅ 152
+
+- 📌 Problem: LeetCode 150 — Evaluate Reverse Polish Notation
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Stack, Math, String
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Evaluate postfix expressions using a stack
+  - Process operators by applying them to the two most recent operands
+  - Handle arithmetic operations while maintaining correct operand order
+  - Understand how stacks simplify expression evaluation
+- 🔗 Solution: solutions/Day152.java
+
+---
