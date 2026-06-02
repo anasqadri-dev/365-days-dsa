@@ -2154,3 +2154,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day152.java
 
 ---
+
+## ✅ 153
+
+- 📌 Problem: LeetCode 71 — Simplify Path
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Stack, String
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Use a stack to simulate directory navigation
+  - Handle special path components like "." and ".."
+  - Ignore redundant slashes efficiently
+  - Construct canonical Unix-style paths from processed directories
+- 🔗 Solution: solutions/Day153.java
+
+---
