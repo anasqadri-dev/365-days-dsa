@@ -2169,3 +2169,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day153.java
 
 ---
+
+## ✅ 154
+
+- 📌 Problem: LeetCode 844 — Backspace String Compare
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Stack, String
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Simulate text editor operations using stacks
+  - Handle backspace characters efficiently
+  - Compare processed strings after applying edits
+  - Use stack-based approaches for string manipulation problems
+- 🔗 Solution: solutions/Day154.java
+
+---
