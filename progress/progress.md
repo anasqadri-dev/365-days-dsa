@@ -2184,3 +2184,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day154.java
 
 ---
+
+## ✅ 155
+
+- 📌 Problem: LeetCode 622 — Design Circular Queue
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Queue, Circular Queue, Design
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Implement a circular queue using arrays
+  - Use modulo arithmetic for circular indexing
+  - Manage front and rear pointers efficiently
+  - Handle queue overflow and underflow conditions
+- 🔗 Solution: solutions/Day155.java
+
+---
