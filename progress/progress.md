@@ -2199,3 +2199,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day155.java
 
 ---
+
+## ✅ 156
+
+- 📌 Problem: LeetCode 641 — Design Circular Deque
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Queue, Deque, Circular Queue, Design
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Implement a circular deque using a fixed-size array
+  - Support insertion and deletion from both front and rear efficiently
+  - Use modulo arithmetic to handle circular indexing
+  - Track element count to distinguish between full and empty states
+
+- 🔗 Solution: solutions/Day156.java
+
+---
