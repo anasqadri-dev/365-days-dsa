@@ -2215,3 +2215,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day156.java
 
 ---
+
+## ✅ 157
+
+- 📌 Problem: LeetCode 331 — Verify Preorder Serialization of a Binary Tree
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Tree, String, Greedy
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Validate tree serialization without reconstructing the tree
+  - Use the slot-counting technique to track available child positions
+  - Every node consumes one slot, while non-null nodes create two new slots
+  - Detect invalid serializations early when available slots become negative
+
+- 🔗 Solution: solutions/Day157.java
+
+---
