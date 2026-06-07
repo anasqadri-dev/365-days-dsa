@@ -2211,7 +2211,6 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
   - Support insertion and deletion from both front and rear efficiently
   - Use modulo arithmetic to handle circular indexing
   - Track element count to distinguish between full and empty states
-
 - 🔗 Solution: solutions/Day156.java
 
 ---
@@ -2227,7 +2226,21 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
   - Use the slot-counting technique to track available child positions
   - Every node consumes one slot, while non-null nodes create two new slots
   - Detect invalid serializations early when available slots become negative
-
 - 🔗 Solution: solutions/Day157.java
+
+---
+
+## ✅ 158
+
+- 📌 Problem: LeetCode 32 — Longest Valid Parentheses
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Stack, String, Dynamic Programming
+- ⏱ Time Taken: 45 Minutes
+- 💡 Key Learning:
+  - Use a stack of indices to track unmatched parentheses
+  - Maintain a base index to handle invalid closing brackets
+  - Calculate valid substring lengths using index differences
+  - Find the longest well-formed parentheses substring in linear time
+- 🔗 Solution: solutions/Day158.java
 
 ---
