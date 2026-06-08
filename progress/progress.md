@@ -2244,3 +2244,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day158.java
 
 ---
+
+## ✅ 159
+
+- 📌 Problem: LeetCode 509 — Fibonacci Number
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Dynamic Programming, Math
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Build Fibonacci sequence using iterative bottom-up approach
+  - Reduce recursive overhead by tracking only last two values
+  - Optimize space from O(n) to O(1)
+  - Understand how DP can replace exponential recursion
+- 🔗 Solution: solutions/Day159.java
+
+---
