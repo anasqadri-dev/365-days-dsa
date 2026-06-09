@@ -2259,3 +2259,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day159.java
 
 ---
+
+## ✅ 160
+
+- 📌 Problem: LeetCode 1137 — N-th Tribonacci Number
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Dynamic Programming, Math
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Extend Fibonacci pattern to 3-state recurrence (Tribonacci)
+  - Maintain rolling variables to avoid extra space usage
+  - Build sequence iteratively from base cases
+  - Understand how DP generalizes to multi-state transitions
+- 🔗 Solution: solutions/Day160.java
+
+---
