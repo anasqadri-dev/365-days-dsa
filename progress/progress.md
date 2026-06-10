@@ -2274,3 +2274,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day160.java
 
 ---
+
+## ✅ 161
+
+- 📌 Problem: LeetCode 50 — Pow(x, n)
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Recursion, Math, Binary Exponentiation
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Use binary exponentiation to reduce time complexity from O(n) to O(log n)
+  - Handle negative powers by inverting the base
+  - Convert exponent to `long` to avoid integer overflow for `Integer.MIN_VALUE`
+  - Repeatedly square the base while processing exponent bits
+- 🔗 Solution: solutions/Day161.java
+
+---
