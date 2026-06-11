@@ -2289,3 +2289,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day161.java
 
 ---
+
+## ✅ 162
+
+- 📌 Problem: LeetCode 231 — Power of Two
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Math, Bit Manipulation
+- ⏱ Time Taken: 10 Minutes
+- 💡 Key Learning:
+  - Determine whether a number can be repeatedly divided by 2 until reaching 1
+  - Handle edge cases involving zero and negative numbers
+  - Recognize the properties of powers of two
+  - Understand how mathematical and bit manipulation approaches solve the same problem
+- 🔗 Solution: solutions/Day162.java
+
+---
