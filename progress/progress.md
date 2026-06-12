@@ -2304,3 +2304,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day162.java
 
 ---
+
+## ✅ 163
+
+- 📌 Problem: LeetCode 326 — Power of Three
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Math
+- ⏱ Time Taken: 10 Minutes
+- 💡 Key Learning:
+  - Verify powers of three through repeated division
+  - Handle invalid inputs such as zero and negative numbers
+  - Use divisibility properties to simplify exponent-related problems
+  - Recognize patterns common to power-checking problems across different bases
+- 🔗 Solution: solutions/Day163.java
+
+---
