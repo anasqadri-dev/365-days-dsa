@@ -2319,3 +2319,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day163.java
 
 ---
+
+## ✅ 164
+
+- 📌 Problem: LeetCode 342 — Power of Four
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Math, Bit Manipulation
+- ⏱ Time Taken: 10 Minutes
+- 💡 Key Learning:
+  - Determine whether a number is a power of four using repeated division
+  - Handle edge cases involving non-positive integers
+  - Understand the relationship between powers of four and powers of two
+  - Recognize how base-specific power checks follow a common pattern
+- 🔗 Solution: solutions/Day164.java
+
+---
