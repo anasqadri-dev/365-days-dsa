@@ -2334,3 +2334,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day164.java
 
 ---
+
+## ✅ 165
+
+- 📌 Problem: LeetCode 779 — K-th Symbol in Grammar
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Recursion, Divide and Conquer, Binary Tree
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Solve recursive pattern generation without constructing entire rows
+  - Trace a symbol back to its parent in the previous row
+  - Use divide-and-conquer by mapping each position to its ancestor
+  - Understand how recursive state transitions model binary tree structures
+- 🔗 Solution: solutions/Day165.java
+
+---
