@@ -2349,3 +2349,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day165.java
 
 ---
+
+## ✅ 166
+
+- 📌 Problem: LeetCode 1342 — Number of Steps to Reduce a Number to Zero
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Math, Bit Manipulation, Simulation
+- ⏱ Time Taken: 10 Minutes
+- 💡 Key Learning:
+  - Simulate operations based on whether a number is even or odd
+  - Use division and subtraction to progressively reduce a number to zero
+  - Recognize how parity determines the next operation
+  - Understand the relationship between binary representation and reduction steps
+- 🔗 Solution: solutions/Day166.java
+
+---
