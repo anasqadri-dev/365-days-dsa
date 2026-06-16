@@ -2364,3 +2364,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day166.java
 
 ---
+
+## ✅ 167
+
+- 📌 Problem: LeetCode 46 — Permutations
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Backtracking, Recursion, Array
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Generate all possible orderings using backtracking
+  - Track used elements to avoid duplicates in permutations
+  - Apply recursion with choice-explore-unchoose pattern
+  - Restore state after recursive calls through backtracking
+- 🔗 Solution: solutions/Day167.java
+
+---
