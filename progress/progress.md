@@ -2379,3 +2379,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day167.java
 
 ---
+
+## ✅ 168
+
+- 📌 Problem: LeetCode 47 — Permutations II
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Backtracking, Recursion, Array
+- ⏱ Time Taken: 40 Minutes
+- 💡 Key Learning:
+  - Generate unique permutations by combining sorting with backtracking
+  - Skip duplicate choices to avoid redundant permutations
+  - Use a `used` array to track elements included in the current permutation
+  - Apply pruning techniques to optimize recursive search
+- 🔗 Solution: solutions/Day168.java
+
+---
