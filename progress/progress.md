@@ -2394,3 +2394,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day168.java
 
 ---
+
+## ✅ 169
+
+- 📌 Problem: LeetCode 78 — Subsets
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Backtracking, Recursion, Array
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Generate the power set using backtracking
+  - Add the current subset to the answer at every recursive step
+  - Explore inclusion and exclusion choices systematically
+  - Use recursion to efficiently enumerate all (2^n) possible subsets
+- 🔗 Solution: solutions/Day169.java
+
+---
