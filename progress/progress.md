@@ -2424,3 +2424,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day170.java
 
 ---
+
+## ✅ 171
+
+- 📌 Problem: LeetCode 39 — Combination Sum
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Backtracking, Recursion, Array
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Generate combinations that sum to a target using backtracking
+  - Reuse the same candidate multiple times by maintaining the current index
+  - Prune recursive paths when the remaining target becomes negative
+  - Build valid combinations incrementally and backtrack to explore alternatives
+- 🔗 Solution: solutions/Day171.java
+
+---
