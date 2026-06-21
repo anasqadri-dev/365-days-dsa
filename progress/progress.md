@@ -2439,3 +2439,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day171.java
 
 ---
+
+## ✅ 172
+
+- 📌 Problem: LeetCode 40 — Combination Sum II
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Backtracking, Recursion, Sorting
+- ⏱ Time Taken: 40 Minutes
+- 💡 Key Learning:
+  - Handle combinations where each element can be used only once
+  - Sort the array to easily skip duplicate elements
+  - Avoid duplicate combinations by skipping repeated values at the same recursion depth
+  - Use backtracking with controlled index progression to ensure uniqueness
+- 🔗 Solution: solutions/Day172.java
+
+---
