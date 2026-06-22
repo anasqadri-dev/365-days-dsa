@@ -2454,3 +2454,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day172.java
 
 ---
+
+## ✅ 173
+
+- 📌 Problem: LeetCode 17 — Letter Combinations of a Phone Number
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Backtracking, Recursion, String
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Generate all possible letter combinations using backtracking
+  - Map digits to their corresponding phone keypad characters
+  - Build combinations incrementally by exploring every character choice
+  - Apply recursive depth-first search to traverse the solution space
+- 🔗 Solution: solutions/Day173.java
+
+---
