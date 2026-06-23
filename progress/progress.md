@@ -2469,3 +2469,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day173.java
 
 ---
+
+## ✅ 174
+
+- 📌 Problem: LeetCode 22 — Generate Parentheses
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Backtracking, Recursion, String
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Generate all valid parentheses combinations using backtracking
+  - Keep track of opening and closing brackets separately
+  - Only add a closing bracket when it maintains a valid sequence
+  - Use recursion to build solutions incrementally and prune invalid paths early
+- 🔗 Solution: solutions/Day174.java
+
+---
