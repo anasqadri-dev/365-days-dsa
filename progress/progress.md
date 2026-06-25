@@ -2499,3 +2499,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day175.java
 
 ---
+
+## ✅ 176
+
+- 📌 Problem: LeetCode 52 — N-Queens II
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Backtracking, Recursion, Matrix
+- ⏱ Time Taken: 45 Minutes
+- 💡 Key Learning:
+  - Count valid N-Queens arrangements without storing board configurations
+  - Reuse backtracking techniques from the N-Queens problem
+  - Validate queen placements using column and diagonal checks
+  - Optimize memory usage by tracking only the solution count
+- 🔗 Solution: solutions/Day176.java
+
+---
