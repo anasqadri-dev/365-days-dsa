@@ -18,3 +18,7 @@ Thumbs.db
 # Excluded Media
 *.png
 *.docx
+
+# LibreOffice temporary lock files
+
+.~lock.*#
