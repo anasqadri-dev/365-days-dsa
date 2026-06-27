@@ -2514,3 +2514,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day176.java
 
 ---
+
+## ✅ 177
+
+- 📌 Problem: LeetCode 79 — Word Search
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Backtracking, Depth-First Search (DFS), Matrix
+- ⏱ Time Taken: 40 Minutes
+- 💡 Key Learning:
+  - Use DFS with backtracking to search for a word in a 2D grid
+  - Mark visited cells temporarily to avoid revisiting the same cell
+  - Explore all four directions (up, down, left, right) recursively
+  - Restore the board state after each recursive call to enable backtracking
+- 🔗 Solution: solutions/Day177.java
+
+---
