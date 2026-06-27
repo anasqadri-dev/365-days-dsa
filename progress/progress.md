@@ -2529,3 +2529,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day177.java
 
 ---
+
+## ✅ 178
+
+- 📌 Problem: LeetCode 131 — Palindrome Partitioning
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Backtracking, Recursion, String
+- ⏱ Time Taken: 40 Minutes
+- 💡 Key Learning:
+  - Generate all valid palindrome partitions using backtracking
+  - Check whether each substring is a palindrome before choosing it
+  - Build partitions recursively and backtrack after exploring each choice
+  - Combine recursion with palindrome validation to prune invalid paths
+- 🔗 Solution: solutions/Day178.java
+
+---
