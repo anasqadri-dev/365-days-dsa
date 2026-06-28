@@ -2544,3 +2544,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day178.java
 
 ---
+
+## ✅ 179
+
+- 📌 Problem: LeetCode 77 — Combinations
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Backtracking, Recursion
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Generate all combinations of size `k` using backtracking
+  - Build combinations by choosing numbers in increasing order
+  - Avoid duplicate combinations by advancing the starting index
+  - Use recursion to explore all valid selection paths
+- 🔗 Solution: solutions/Day179.java
+
+---
