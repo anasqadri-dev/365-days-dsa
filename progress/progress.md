@@ -2559,3 +2559,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day179.java
 
 ---
+
+## ✅ 180
+
+- 📌 Problem: LeetCode 216 — Combination Sum III
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Backtracking, Recursion
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Generate combinations using numbers from 1 to 9 without repetition
+  - Track both the remaining sum and the number of selected elements
+  - Prune recursive paths when the remaining sum becomes negative
+  - Use backtracking to explore all valid combinations efficiently
+- 🔗 Solution: solutions/Day180.java
+
+---
