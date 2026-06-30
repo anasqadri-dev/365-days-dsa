@@ -2574,3 +2574,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day180.java
 
 ---
+
+## ✅ 181
+
+- 📌 Problem: LeetCode 698 — Partition to K Equal Sum Subsets
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Backtracking, Recursion, Array
+- ⏱ Time Taken: 50 Minutes
+- 💡 Key Learning:
+  - Divide an array into `k` subsets with equal sums using backtracking
+  - Track used elements to ensure each number is placed only once
+  - Complete one subset at a time before building the next
+  - Prune recursive paths when the current subset sum exceeds the target
+- 🔗 Solution: solutions/Day181.java
+
+---
