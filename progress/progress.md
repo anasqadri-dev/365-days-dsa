@@ -2589,3 +2589,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day181.java
 
 ---
+
+## ✅ 182
+
+- 📌 Problem: LeetCode 473 — Matchsticks to Square
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Backtracking, Recursion, Array
+- ⏱ Time Taken: 45 Minutes
+- 💡 Key Learning:
+  - Use backtracking to assign matchsticks to four sides of a square
+  - Verify that each side reaches the same target length
+  - Place larger matchsticks first to reduce unnecessary recursion
+  - Prune equivalent states to improve search efficiency
+- 🔗 Solution: solutions/Day182.java
+
+---
