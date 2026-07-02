@@ -2604,3 +2604,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day182.java
 
 ---
+
+## ✅ 183
+
+- 📌 Problem: LeetCode 144 — Binary Tree Preorder Traversal
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Perform preorder traversal by visiting **Root → Left → Right**
+  - Use recursion to simplify tree traversal
+  - Handle the base case when the current node is `null`
+  - Store visited node values in the required traversal order
+- 🔗 Solution: solutions/Day183.java
+
+---
