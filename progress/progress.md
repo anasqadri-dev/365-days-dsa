@@ -2619,3 +2619,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day183.java
 
 ---
+
+## ✅ 184
+
+- 📌 Problem: LeetCode 94 — Binary Tree Inorder Traversal
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Perform inorder traversal by visiting **Left → Root → Right**
+  - Use recursion to naturally traverse binary trees
+  - Handle the base case when the current node is `null`
+  - Collect node values in sorted order for Binary Search Trees (BSTs)
+- 🔗 Solution: solutions/Day184.java
+
+---
