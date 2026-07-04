@@ -2634,3 +2634,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day184.java
 
 ---
+
+## ✅ 185
+
+- 📌 Problem: LeetCode 145 — Binary Tree Postorder Traversal
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Perform postorder traversal by visiting **Left → Right → Root**
+  - Use recursion to traverse the tree in the required order
+  - Handle the base case when the current node is `null`
+  - Process child nodes before the parent node
+- 🔗 Solution: solutions/Day185.java
+
+---
