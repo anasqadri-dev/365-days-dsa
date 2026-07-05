@@ -2649,3 +2649,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day185.java
 
 ---
+
+## ✅ 186
+
+- 📌 Problem: LeetCode 102 — Binary Tree Level Order Traversal
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Tree, Breadth-First Search (BFS), Queue
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Traverse a binary tree level by level using Breadth-First Search (BFS)
+  - Use a queue to process nodes in the correct order
+  - Determine each level's size before processing its nodes
+  - Store values from each level as a separate list
+- 🔗 Solution: solutions/Day186.java
+
+---
