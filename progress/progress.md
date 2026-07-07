@@ -2679,3 +2679,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day187.java
 
 ---
+
+## ✅ 188
+
+- 📌 Problem: LeetCode 101 — Symmetric Tree
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Compare the left and right subtrees recursively to check for symmetry
+  - Match opposite child nodes to verify the mirror property
+  - Handle null node combinations as base cases
+  - Use recursive mirror comparison instead of traversing the entire tree separately
+- 🔗 Solution: solutions/Day188.java
+
+---
