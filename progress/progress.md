@@ -2664,3 +2664,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day186.java
 
 ---
+
+## ✅ 187
+
+- 📌 Problem: LeetCode 104 — Maximum Depth of Binary Tree
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Compute the maximum depth recursively
+  - Find the depth of both left and right subtrees
+  - Return the larger depth plus one for the current node
+  - Handle the base case by returning 0 for a null node
+- 🔗 Solution: solutions/Day187.java
+
+---
