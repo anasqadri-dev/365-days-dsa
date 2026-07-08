@@ -2694,3 +2694,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day188.java
 
 ---
+
+## ✅ 189
+
+- 📌 Problem: LeetCode 226 — Invert Binary Tree
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Invert a binary tree by swapping left and right child nodes
+  - Apply recursion to process every node in the tree
+  - Handle the base case when the current node is `null`
+  - Perform the swap before recursively inverting the subtrees
+- 🔗 Solution: solutions/Day189.java
+
+---
