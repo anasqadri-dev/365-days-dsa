@@ -2709,3 +2709,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day189.java
 
 ---
+
+## ✅ 190
+
+- 📌 Problem: LeetCode 112 — Path Sum
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Traverse root-to-leaf paths recursively while tracking the remaining target sum
+  - Identify leaf nodes to determine when a complete path has been formed
+  - Subtract the current node's value from the target at each recursive step
+  - Return true as soon as a valid root-to-leaf path is found
+- 🔗 Solution: solutions/Day190.java
+
+---
