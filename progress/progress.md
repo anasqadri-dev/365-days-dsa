@@ -2724,3 +2724,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day190.java
 
 ---
+
+## ✅ 191
+
+- 📌 Problem: LeetCode 543 — Diameter of Binary Tree
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Compute the diameter while calculating the height of each subtree
+  - Update the maximum diameter using the sum of left and right subtree heights
+  - Return the height of each node to avoid repeated calculations
+  - Solve tree problems efficiently by combining multiple computations in a single DFS traversal
+- 🔗 Solution: solutions/Day191.java
+
+---
