@@ -2739,3 +2739,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day191.java
 
 ---
+
+## ✅ 192
+
+- 📌 Problem: LeetCode 110 — Balanced Binary Tree
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Check tree balance while computing subtree heights in a single traversal
+  - Use a sentinel value (`-1`) to indicate an unbalanced subtree
+  - Avoid redundant height calculations by combining balance and height checks
+  - Compare left and right subtree heights at every node
+- 🔗 Solution: solutions/Day192.java
+
+---
