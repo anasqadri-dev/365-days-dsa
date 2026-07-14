@@ -2754,3 +2754,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day192.java
 
 ---
+
+## ✅ 193
+
+- 📌 Problem: LeetCode 100 — Same Tree
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Compare two binary trees recursively node by node
+  - Check both structure and node values for equality
+  - Handle null node combinations as base cases
+  - Traverse corresponding left and right subtrees simultaneously
+- 🔗 Solution: solutions/Day193.java
+
+---
