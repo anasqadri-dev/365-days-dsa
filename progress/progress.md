@@ -2769,3 +2769,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day193.java
 
 ---
+
+## ✅ 194
+
+- 📌 Problem: LeetCode 257 — Binary Tree Paths
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Traverse all root-to-leaf paths using recursion
+  - Build the path string while moving down the tree
+  - Identify leaf nodes to complete and store a path
+  - Pass the current path through recursive calls without modifying previous paths
+- 🔗 Solution: solutions/Day194.java
+
+---
