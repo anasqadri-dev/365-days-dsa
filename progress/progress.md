@@ -2784,3 +2784,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day194.java
 
 ---
+
+## ✅ 195
+
+- 📌 Problem: LeetCode 113 — Path Sum II
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Backtracking
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Find all root-to-leaf paths that match a target sum using DFS
+  - Track the current path while traversing the tree
+  - Use backtracking to remove nodes after exploring each path
+  - Store a copy of the current path when a valid leaf is reached
+- 🔗 Solution: solutions/Day195.java
+
+---
