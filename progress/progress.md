@@ -2829,3 +2829,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day197.java
 
 ---
+
+## ✅ 198
+
+- 📌 Problem: LeetCode 637 — Average of Levels in Binary Tree
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Binary Tree, Breadth-First Search (BFS), Queue
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Traverse the tree level by level using a queue
+  - Calculate the sum of all nodes at each level
+  - Compute the average by dividing the level sum by the number of nodes
+  - Use `long` for the level sum to avoid integer overflow
+- 🔗 Solution: solutions/Day198.java
+
+---
