@@ -2814,3 +2814,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day196.java
 
 ---
+
+## ✅ 197
+
+- 📌 Problem: LeetCode 199 — Binary Tree Right Side View
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Tree, Breadth-First Search (BFS), Queue
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Perform level-order traversal using a queue
+  - Process one level at a time to identify visible nodes
+  - Record the last node of each level as the right-side view
+  - Use BFS to solve level-based binary tree problems efficiently
+- 🔗 Solution: solutions/Day197.java
+
+---
