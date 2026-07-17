@@ -2799,3 +2799,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day195.java
 
 ---
+
+## ✅ 196
+
+- 📌 Problem: LeetCode 129 — Sum Root to Leaf Numbers
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Form numbers incrementally while traversing from root to leaf
+  - Multiply the current number by 10 before adding the next digit
+  - Return the completed number when a leaf node is reached
+  - Combine sums from the left and right subtrees recursively
+- 🔗 Solution: solutions/Day196.java
+
+---
