@@ -2844,3 +2844,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day198.java
 
 ---
+
+## ✅ 199
+
+- 📌 Problem: LeetCode 230 — Kth Smallest Element in a BST
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Search Tree (BST), Inorder Traversal, Depth-First Search (DFS)
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Use inorder traversal to visit BST nodes in sorted order
+  - Count visited nodes until reaching the kth element
+  - Store the answer when the desired position is found
+  - Leverage the BST property to avoid sorting all values
+- 🔗 Solution: solutions/Day199.java
+
+---
