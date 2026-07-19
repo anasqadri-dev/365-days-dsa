@@ -2859,3 +2859,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day199.java
 
 ---
+
+## ✅ 200
+
+- 📌 Problem: LeetCode 98 — Validate Binary Search Tree
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Search Tree (BST), Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Validate each node using minimum and maximum value limits
+  - Pass updated bounds recursively to the left and right subtrees
+  - Use `long` limits to safely handle integer boundary values
+  - Check the entire tree instead of only comparing parent and child nodes
+- 🔗 Solution: solutions/Day200.java
+
+---
