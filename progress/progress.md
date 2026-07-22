@@ -2889,3 +2889,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day201.java
 
 ---
+
+## ✅ 202
+
+- 📌 Problem: LeetCode 236 — Lowest Common Ancestor of a Binary Tree
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Search both left and right subtrees recursively
+  - Return the current node when it matches either target node
+  - The current node is the LCA when both subtrees contain one target each
+  - Propagate the found node upward when only one subtree contains a target
+- 🔗 Solution: solutions/Day202.java
+
+---
