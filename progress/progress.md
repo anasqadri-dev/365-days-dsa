@@ -2874,3 +2874,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day200.java
 
 ---
+
+## ✅ 201
+
+- 📌 Problem: LeetCode 235 — Lowest Common Ancestor of a Binary Search Tree
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Search Tree (BST), Tree Traversal
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Use the BST property to efficiently locate the lowest common ancestor
+  - Move left when both target nodes are smaller than the current node
+  - Move right when both target nodes are greater than the current node
+  - The first node where the paths split (or matches one target) is the LCA
+- 🔗 Solution: solutions/Day201.java
+
+---
