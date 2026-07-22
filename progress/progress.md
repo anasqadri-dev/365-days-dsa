@@ -2904,3 +2904,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day202.java
 
 ---
+
+## ✅ 203
+
+- 📌 Problem: LeetCode 105 — Construct Binary Tree from Preorder and Inorder Traversal
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Use preorder traversal to identify the root node of each subtree
+  - Locate the root in the inorder traversal to split left and right subtrees
+  - Recursively construct both subtrees using the corresponding inorder ranges
+  - Maintain a preorder index to process nodes in the correct order
+- 🔗 Solution: solutions/Day203.java
+
+---
