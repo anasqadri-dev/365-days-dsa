@@ -2919,3 +2919,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day203.java
 
 ---
+
+## ✅ 204
+
+- 📌 Problem: LeetCode 106 — Construct Binary Tree from Inorder and Postorder Traversal
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Use postorder traversal to identify the root node of each subtree
+  - Locate the root in the inorder traversal to divide left and right subtrees
+  - Build the right subtree before the left because postorder is processed from the end
+  - Maintain a postorder index to construct the tree in the correct order
+- 🔗 Solution: solutions/Day204.java
+
+---
