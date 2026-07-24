@@ -2934,3 +2934,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day204.java
 
 ---
+
+## ✅ 205
+
+- 📌 Problem: LeetCode 297 — Serialize and Deserialize Binary Tree
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion, String
+- ⏱ Time Taken: 45 Minutes
+- 💡 Key Learning:
+  - Serialize a binary tree using preorder traversal
+  - Represent null nodes with a special marker (e.g., `#`)
+  - Reconstruct the tree recursively from the serialized data
+  - Maintain an index while deserializing to process nodes in preorder
+- 🔗 Solution: solutions/Day205.java
+
+---
