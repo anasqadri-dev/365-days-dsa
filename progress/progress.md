@@ -2949,3 +2949,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day205.java
 
 ---
+
+## ✅ 206
+
+- 📌 Problem: LeetCode 124 — Binary Tree Maximum Path Sum
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Recursion
+- ⏱ Time Taken: 40 Minutes
+- 💡 Key Learning:
+  - Compute the maximum path sum using postorder DFS
+  - Ignore negative path sums by treating them as zero
+  - Update the global maximum using the current node and both subtrees
+  - Return the maximum single-branch path to the parent for further computation
+- 🔗 Solution: solutions/Day206.java
+
+---
