@@ -2979,3 +2979,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day207.java
 
 ---
+
+## ✅ 208
+
+- 📌 Problem: LeetCode 703 — Kth Largest Element in a Stream
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Heap (Priority Queue), Design, Data Stream
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Maintain the k largest elements using a min-heap
+  - Remove the smallest element whenever the heap size exceeds k
+  - The top of the min-heap always represents the kth largest element
+  - Use a priority queue for efficient insertion and retrieval in a data stream
+- 🔗 Solution: solutions/Day208.java
+
+---
