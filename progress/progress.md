@@ -2964,3 +2964,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day206.java
 
 ---
+
+## ✅ 207
+
+- 📌 Problem: LeetCode 987 — Vertical Order Traversal of a Binary Tree
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Binary Tree, Depth-First Search (DFS), Sorting, TreeMap
+- ⏱ Time Taken: 45 Minutes
+- 💡 Key Learning:
+  - Assign row and column coordinates to every node during DFS
+  - Group nodes by their column using a TreeMap
+  - Sort nodes first by row and then by node value when positions overlap
+  - Traverse columns from left to right to produce the final vertical order
+- 🔗 Solution: solutions/Day207.java
+
+---
