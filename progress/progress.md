@@ -3009,3 +3009,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day209.java
 
 ---
+
+## ✅ 210
+
+- 📌 Problem: LeetCode 692 — Top K Frequent Words
+- 🧩 Difficulty: Medium
+- 🧠 Topic: HashMap, Heap (Priority Queue), Sorting
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Count word frequencies using a HashMap
+  - Use a max-heap to prioritize words by frequency
+  - Break ties using lexicographical (alphabetical) order
+  - Extract the top k frequent words efficiently from the heap
+- 🔗 Solution: solutions/Day210.java
+
+---
