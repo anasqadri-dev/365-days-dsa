@@ -2994,3 +2994,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day208.java
 
 ---
+
+## ✅ 209
+
+- 📌 Problem: LeetCode 1046 — Last Stone Weight
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Heap (Priority Queue), Simulation
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Use a max-heap to efficiently access the two heaviest stones
+  - Simulate the stone-smashing process step by step
+  - Insert the remaining stone back into the heap if its weight is non-zero
+  - Continue until one or no stones remain
+- 🔗 Solution: solutions/Day209.java
+
+---
