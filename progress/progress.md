@@ -3039,3 +3039,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day211.java
 
 ---
+
+## ✅ 212
+
+- 📌 Problem: LeetCode 451 — Sort Characters By Frequency
+- 🧩 Difficulty: Medium
+- 🧠 Topic: HashMap, Heap (Priority Queue), String
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Count character frequencies using a HashMap
+  - Use a max-heap to process characters in decreasing frequency order
+  - Build the final string by repeating each character according to its frequency
+  - Combine hashing and heaps for efficient frequency-based string processing
+- 🔗 Solution: solutions/Day212.java
+
+---
