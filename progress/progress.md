@@ -3024,3 +3024,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day210.java
 
 ---
+
+## ✅ 211
+
+- 📌 Problem: LeetCode 347 — Top K Frequent Elements
+- 🧩 Difficulty: Medium
+- 🧠 Topic: HashMap, Heap (Priority Queue)
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Count the frequency of each element using a HashMap
+  - Use a max-heap to keep elements ordered by frequency
+  - Extract the top k most frequent elements efficiently
+  - Combine hashing and heaps to solve frequency-based problems
+- 🔗 Solution: solutions/Day211.java
+
+---
