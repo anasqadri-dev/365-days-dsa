@@ -3054,3 +3054,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day212.java
 
 ---
+
+## ✅ 213
+
+- 📌 Problem: LeetCode 295 — Find Median from Data Stream
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Heap (Priority Queue), Design, Data Stream
+- ⏱ Time Taken: 45 Minutes
+- 💡 Key Learning:
+  - Maintain two heaps to efficiently track the lower and upper halves of the data
+  - Use a max-heap for the smaller half and a min-heap for the larger half
+  - Rebalance the heaps after every insertion to maintain their size property
+  - Compute the median in constant time using the top elements of the heaps
+- 🔗 Solution: solutions/Day213.java
+
+---
