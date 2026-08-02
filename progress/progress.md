@@ -3069,3 +3069,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day213.java
 
 ---
+
+## ✅ 214
+
+- 📌 Problem: LeetCode 378 — Kth Smallest Element in a Sorted Matrix
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Heap (Priority Queue), Matrix
+- ⏱ Time Taken: 40 Minutes
+- 💡 Key Learning:
+  - Use a min-heap to efficiently merge sorted rows of the matrix
+  - Store the value along with its row and column indices in the heap
+  - After removing the smallest element, insert the next element from the same row
+  - Find the kth smallest element without flattening the entire matrix
+- 🔗 Solution: solutions/Day214.java
+
+---
