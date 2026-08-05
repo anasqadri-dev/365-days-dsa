@@ -3084,3 +3084,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day214.java
 
 ---
+
+## ✅ 215
+
+- 📌 Problem: LeetCode 621 — Task Scheduler
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Heap (Priority Queue), Greedy, Counting
+- ⏱ Time Taken: 45 Minutes
+- 💡 Key Learning:
+  - Count task frequencies using an array
+  - Use a max-heap to always execute the most frequent remaining task
+  - Process tasks in cycles of `n + 1` intervals to satisfy the cooldown constraint
+  - Insert idle intervals only when there are unfinished tasks remaining
+- 🔗 Solution: solutions/Day215.java
+
+---
