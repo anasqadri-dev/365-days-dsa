@@ -3099,3 +3099,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day215.java
 
 ---
+
+## ✅ 216
+
+- 📌 Problem: LeetCode 355 — Design Twitter
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Design, HashMap, HashSet, Heap (Priority Queue)
+- ⏱ Time Taken: 50 Minutes
+- 💡 Key Learning:
+  - Store user tweets using a HashMap with timestamp information
+  - Maintain follow relationships efficiently using a HashSet
+  - Use a max-heap to retrieve tweets in descending order of posting time
+  - Combine tweets from the user and followed users to generate the 10 most recent news feed items
+- 🔗 Solution: solutions/Day216.java
+
+---
