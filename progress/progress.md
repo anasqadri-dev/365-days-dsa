@@ -3114,3 +3114,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day216.java
 
 ---
+
+## ✅ 217
+
+- 📌 Problem: LeetCode 502 — IPO
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Greedy, Heap (Priority Queue), Sorting
+- ⏱ Time Taken: 45 Minutes
+- 💡 Key Learning:
+  - Sort projects based on the minimum capital required
+  - Use a max-heap to always select the most profitable available project
+  - Add newly affordable projects to the heap as capital increases
+  - Combine sorting with a greedy approach to maximize final capital
+- 🔗 Solution: solutions/Day217.java
+
+---
