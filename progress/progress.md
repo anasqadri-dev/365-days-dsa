@@ -3129,3 +3129,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day217.java
 
 ---
+
+## ✅ 218
+
+- 📌 Problem: LeetCode 632 — Smallest Range Covering Elements from K Lists
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Heap (Priority Queue), Sliding Window, Sorting
+- ⏱ Time Taken: 50 Minutes
+- 💡 Key Learning:
+  - Use a min-heap to efficiently track the smallest current element across all lists
+  - Keep track of the maximum current element to form the current range
+  - Move to the next element from the list containing the current minimum
+  - Stop when one of the lists has no remaining elements
+  - Maintain the smallest range while ensuring every list is represented
+- 🔗 Solution: solutions/Day218.java
+
+---
