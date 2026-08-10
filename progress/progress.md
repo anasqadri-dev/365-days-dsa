@@ -3160,3 +3160,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day219.java
 
 ---
+
+## ✅ 220
+
+- 📌 Problem: LeetCode 1405 — Longest Happy String
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Greedy, Heap (Priority Queue), String
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Use a max-heap to always select the character with the highest remaining frequency
+  - Avoid adding a character when the last two characters are already the same
+  - Temporarily choose the second most frequent character when the most frequent one cannot be used
+  - Continue greedily until no valid character can be added
+- 🔗 Solution: solutions/Day220.java
+
+---
