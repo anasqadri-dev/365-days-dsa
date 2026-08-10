@@ -3192,3 +3192,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day221.java
 
 ---
+
+## ✅ 222
+
+- 📌 Problem: LeetCode 1383 — Maximum Performance of a Team
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Greedy, Heap (Priority Queue), Sorting
+- ⏱ Time Taken: 50 Minutes
+- 💡 Key Learning:
+  - Sort engineers by efficiency from highest to lowest
+  - Treat the current engineer's efficiency as the minimum efficiency of the team
+  - Use a min-heap to keep track of the selected engineers' speeds
+  - Remove the smallest speed when the team size exceeds k
+  - Calculate performance using total speed multiplied by the current efficiency
+  - Use a greedy approach to maximize the team's performance
+- 🔗 Solution: solutions/Day222.java
+
+---
