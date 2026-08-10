@@ -3145,3 +3145,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day218.java
 
 ---
+
+## ✅ 219
+
+- 📌 Problem: LeetCode 767 — Reorganize String
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Greedy, Heap (Priority Queue), HashMap, String
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Count character frequencies using a HashMap
+  - Use a max-heap to always select the character with the highest remaining frequency
+  - Temporarily hold the previously used character to prevent adjacent duplicate characters
+  - Return an empty string when it is impossible to reorganize the characters
+- 🔗 Solution: solutions/Day219.java
+
+---
