@@ -3175,3 +3175,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day220.java
 
 ---
+
+## ✅ 221
+
+- 📌 Problem: LeetCode 857 — Minimum Cost to Hire K Workers
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Greedy, Heap (Priority Queue), Sorting
+- ⏱ Time Taken: 50 Minutes
+- 💡 Key Learning:
+  - Calculate the wage-to-quality ratio for every worker
+  - Sort workers based on their wage-to-quality ratio
+  - Use a max-heap to keep track of the workers with the smallest total quality
+  - Remove the worker with the highest quality when more than k workers are selected
+  - Calculate the hiring cost using the current ratio and total quality
+  - Use a greedy approach to find the minimum possible hiring cost
+- 🔗 Solution: solutions/Day221.java
+
+---
