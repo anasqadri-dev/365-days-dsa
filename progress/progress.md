@@ -3209,3 +3209,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day222.java
 
 ---
+
+## ✅ 223
+
+- 📌 Problem: LeetCode 630 — Course Schedule III
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Greedy, Heap (Priority Queue), Sorting
+- ⏱ Time Taken: 50 Minutes
+- 💡 Key Learning:
+  - Sort courses based on their last day
+  - Keep track of the total time spent on selected courses
+  - Use a max-heap to store the durations of selected courses
+  - If the current course causes the deadline to be exceeded, remove the longest course
+  - Removing the longest course gives back the maximum amount of available time
+  - Use a greedy approach to maximize the number of courses that can be completed
+- 🔗 Solution: solutions/Day223.java
+
+---
