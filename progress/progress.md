@@ -3226,3 +3226,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day223.java
 
 ---
+
+## ✅ 224
+- 📌 Problem: LeetCode 871 — Minimum Number of Refueling Stops
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Greedy, Heap (Priority Queue)
+- ⏱ Time Taken: 45 Minutes
+- 💡 Key Learning:
+  - Keep track of all gas stations that have already been passed
+  - Use a max-heap to always choose the station with the most available fuel
+  - Refuel only when the current fuel is not enough to reach the next position
+  - Take the largest available amount of fuel whenever a refueling stop is necessary
+  - Use a greedy approach to minimize the total number of refueling stops
+  - Return -1 when no previously passed station can provide enough fuel to continue
+- 🔗 Solution: solutions/Day224.java
+
+---
