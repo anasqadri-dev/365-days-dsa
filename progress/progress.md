@@ -3339,3 +3339,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day230.java
 
 ---
+
+## ✅ 231
+
+- 📌 Problem: LeetCode 860 — Lemonade Change
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Greedy
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Track the number of available $5 and $10 bills
+  - For a $10 bill, always return one $5 bill as change
+  - For a $20 bill, prefer giving $10 + $5 instead of three $5 bills
+  - Preserve $5 bills whenever possible because they are more useful for future transactions
+  - Return false immediately when the required change cannot be provided
+- 🔗 Solution: solutions/Day230.java
+
+---
