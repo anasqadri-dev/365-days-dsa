@@ -3275,3 +3275,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day226.java
 
 ---
+
+## ✅ 227
+
+- 📌 Problem: LeetCode 786 — K-th Smallest Prime Fraction
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Heap (Priority Queue), Sorting
+- ⏱ Time Taken: 45 Minutes
+- 💡 Key Learning:
+  - Treat fractions with the same denominator as a sorted sequence
+  - Use a min-heap to efficiently track the smallest fraction across all sequences
+  - Initially add the smallest fraction for every possible denominator
+  - After removing a fraction, add the next larger numerator with the same denominator
+  - Use cross multiplication with `long` values to compare fractions safely without floating-point precision issues
+- 🔗 Solution: solutions/Day227.java
+
+---
