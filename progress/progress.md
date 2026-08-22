@@ -3403,3 +3403,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day234.java
 
 ---
+
+## ✅ 235
+
+- 📌 Problem: LeetCode 406 — Queue Reconstruction by Height
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Greedy, Sorting, Array
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Sort people by height in descending order
+  - For people with the same height, sort by k in ascending order
+  - Insert each person at their k-th position in the current queue
+  - Placing taller people first makes the k value directly represent the required position
+  - Use an ArrayList to efficiently reconstruct the queue
+- 🔗 Solution: solutions/Day235.java
+
+---
