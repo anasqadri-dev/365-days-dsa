@@ -3387,3 +3387,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day232.java
 
 ---
+
+## ✅ 234
+
+- 📌 Problem: LeetCode 134 — Gas Station
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Greedy, Array
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Calculate the net gas gain or loss at each station
+  - Check the total gas balance to determine whether completing the circuit is possible
+  - Greedily reset the starting station whenever the current tank becomes negative
+  - If a valid starting point exists, it is guaranteed to be unique
+  - Solve the problem in a single pass using constant extra space
+- 🔗 Solution: solutions/Day234.java
+
+---
