@@ -3371,3 +3371,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day232.java
 
 ---
+
+## ✅ 232
+
+- 📌 Problem: LeetCode 135 — Candy
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Greedy, Array
+- ⏱ Time Taken: 40 Minutes
+- 💡 Key Learning:
+  - Give every child at least one candy
+  - Use a left-to-right pass to handle increasing rating sequences
+  - Use a right-to-left pass to handle decreasing rating sequences
+  - For each child, take the maximum candy requirement from both directions
+  - Combine both passes to satisfy the rating constraints with the minimum total candies
+- 🔗 Solution: solutions/Day232.java
+
+---
