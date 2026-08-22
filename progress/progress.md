@@ -3291,3 +3291,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day227.java
 
 ---
+
+## ✅ 228
+
+- 📌 Problem: LeetCode 373 — Find K Pairs with Smallest Sums
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Heap (Priority Queue), Sorting
+- ⏱ Time Taken: 40 Minutes
+- 💡 Key Learning:
+  - Use the sorted property of both arrays to treat possible pairs as sorted sequences
+  - Use a min-heap to efficiently track the pair with the smallest current sum
+  - Initially add the first pair for each of the first `k` elements in `nums1`
+  - After removing a pair, add the next pair using the same element from `nums1`
+  - Avoid generating all possible pairs by extracting only the required `k` smallest pairs
+- 🔗 Solution: solutions/Day228.java
+
+---
