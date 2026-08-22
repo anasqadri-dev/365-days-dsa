@@ -3323,3 +3323,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day229.java
 
 ---
+
+## ✅ 230
+
+- 📌 Problem: LeetCode 455 — Assign Cookies
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Greedy, Sorting, Two Pointers
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Sort both children by greed factor and cookies by size
+  - Use two pointers to compare the smallest remaining child and cookie
+  - Assign a cookie only when its size is large enough to satisfy the current child
+  - Discard cookies that are too small because they cannot satisfy the current child or any greedier child
+  - Use the smallest suitable cookie to preserve larger cookies for greedier children
+- 🔗 Solution: solutions/Day230.java
+
+---
