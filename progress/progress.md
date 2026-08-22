@@ -3259,3 +3259,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day225.java
 
 ---
+
+## ✅ 226
+
+- 📌 Problem: LeetCode 218 — The Skyline Problem
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Sweep Line, Heap (Priority Queue), Sorting
+- ⏱ Time Taken: 60 Minutes
+- 💡 Key Learning:
+  - Convert each building into two events representing its start and end points
+  - Use a sweep line approach to process all building events from left to right
+  - Maintain active building heights using a max-heap
+  - Process all events at the same x-coordinate before determining the current skyline height
+  - Add a key point only when the maximum active height changes
+- 🔗 Solution: solutions/Day226.java
+
+---
