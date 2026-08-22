@@ -3372,7 +3372,7 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 
 ---
 
-## ✅ 232
+## ✅ 233
 
 - 📌 Problem: LeetCode 135 — Candy
 - 🧩 Difficulty: Hard
