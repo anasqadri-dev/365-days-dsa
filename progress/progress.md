@@ -3307,3 +3307,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day228.java
 
 ---
+
+## ✅ 229
+
+- 📌 Problem: LeetCode 1439 — Find the Kth Smallest Sum of a Matrix With Sorted Rows
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Heap (Priority Queue), Matrix, Sorting
+- ⏱ Time Taken: 60 Minutes
+- 💡 Key Learning:
+  - Process the matrix row by row and combine the current sums with the next sorted row
+  - Use a min-heap to efficiently generate the smallest possible combinations
+  - Treat each existing sum combined with a sorted row as a sorted sequence
+  - Keep only the smallest `k` sums after processing each row
+  - Avoid generating all possible combinations, which can grow exponentially with the number of rows
+- 🔗 Solution: solutions/Day229.java
+
+---
