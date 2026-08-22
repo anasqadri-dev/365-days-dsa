@@ -3228,6 +3228,7 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 ---
 
 ## ✅ 224
+
 - 📌 Problem: LeetCode 871 — Minimum Number of Refueling Stops
 - 🧩 Difficulty: Hard
 - 🧠 Topic: Greedy, Heap (Priority Queue)
@@ -3240,5 +3241,21 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
   - Use a greedy approach to minimize the total number of refueling stops
   - Return -1 when no previously passed station can provide enough fuel to continue
 - 🔗 Solution: solutions/Day224.java
+
+---
+
+## ✅ 225
+
+- 📌 Problem: LeetCode 1642 — Furthest Building You Can Reach
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Heap (Priority Queue), Greedy
+- ⏱ Time Taken: 40 Minutes
+- 💡 Key Learning:
+  - Use a min-heap to store all positive height differences between consecutive buildings
+  - Keep ladders reserved for the largest climbs to maximize the distance reached
+  - When the number of climbs exceeds the available ladders, use bricks for the smallest climb
+  - If the available bricks become negative, return the last reachable building index
+  - Combine a greedy strategy with a min-heap to allocate ladders and bricks optimally
+- 🔗 Solution: solutions/Day225.java
 
 ---
