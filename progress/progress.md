@@ -3355,3 +3355,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day230.java
 
 ---
+
+## ✅ 232
+
+- 📌 Problem: LeetCode 605 — Can Place Flowers
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Greedy, Array
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Check whether the current plot and its adjacent plots are empty
+  - Treat the boundaries of the flowerbed as empty plots
+  - Greedily plant a flower whenever the current position is valid
+  - Update the flowerbed after planting to prevent adjacent flowers
+  - Count the number of flowers planted and return whether it reaches n
+- 🔗 Solution: solutions/Day232.java
+
+---

@@ -1,4 +1,4 @@
-class Solution {
+class Day231 {
     public boolean lemonadeChange(int[] bills) {
         int five = 0;
         int ten = 0;
