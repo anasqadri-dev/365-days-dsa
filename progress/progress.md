@@ -3435,3 +3435,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day236.java
 
 ---
+
+## ✅ 237
+
+- 📌 Problem: LeetCode 56 — Merge Intervals
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Greedy, Sorting, Intervals
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Sort intervals by their starting time
+  - Compare each interval with the end of the current merged interval
+  - Merge intervals when they overlap
+  - Add the current interval when there is no overlap
+  - Build the final result containing only non-overlapping intervals
+- 🔗 Solution: solutions/Day237.java
+
+---
