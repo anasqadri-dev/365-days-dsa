@@ -3526,3 +3526,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day242.java
 
 ---
+
+## ✅ 243
+
+- 📌 Problem: LeetCode 646 — Maximum Length of Pair Chain
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Greedy, Sorting, Intervals
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Sort pairs by their ending position
+  - Always choose the pair that finishes earliest
+  - Add a pair only when its starting value is greater than the previous ending value
+  - Use a greedy strategy to leave maximum space for future pairs
+- 🔗 Solution: solutions/Day243.java
+
+---
