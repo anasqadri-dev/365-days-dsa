@@ -3556,3 +3556,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day244.java
 
 ---
+
+## ✅ 245
+
+- 📌 Problem: LeetCode 190 — Reverse Bits
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Bit Manipulation
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Process all 32 bits of the integer one by one
+  - Extract the rightmost bit using bitwise AND with `1`
+  - Shift the result left and add each extracted bit
+  - Use unsigned right shift to correctly process all bits of a signed integer
+- 🔗 Solution: solutions/Day245.java
+
+---
