@@ -3481,3 +3481,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day239.java
 
 ---
+
+## ✅ 240
+
+- 📌 Problem: LeetCode 1029 — Two City Scheduling
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Greedy, Sorting
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Calculate the cost difference between sending each person to city A and city B
+  - Sort people by their cost difference to prioritize the best choices for city A
+  - Send exactly half of the people to city A and the remaining half to city B
+  - Use a greedy strategy to minimize the total flying cost
+- 🔗 Solution: solutions/Day240.java
+
+---
