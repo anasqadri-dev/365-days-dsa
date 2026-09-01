@@ -3466,3 +3466,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day238.java
 
 ---
+
+## ✅ 239
+
+- 📌 Problem: LeetCode 452 — Minimum Number of Arrows to Burst Balloons
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Greedy, Sorting, Intervals
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Sort balloons by their ending position
+  - Shoot an arrow at the end of the earliest-ending balloon
+  - Reuse the same arrow for all overlapping balloons
+  - Shoot a new arrow when the next balloon starts after the current arrow position
+- 🔗 Solution: solutions/Day239.java
+
+---
