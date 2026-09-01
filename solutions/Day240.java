@@ -1,4 +1,4 @@
-class Solution {
+class Day240 {
     public int twoCitySchedCost(int[][] costs) {
         Arrays.sort(costs, (a, b) -> Integer.compare((a[0] - a[1]), (b[0] - b[1])));
         int totalCost = 0;

@@ -3496,3 +3496,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day240.java
 
 ---
+
+## ✅ 241
+
+- 📌 Problem: LeetCode 1094 — Car Pooling
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Difference Array, Prefix Sum, Simulation
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Use a difference array to track passenger changes at each location
+  - Add passengers at their pickup location and remove them at their drop-off location
+  - Use a prefix sum to calculate the number of passengers currently in the car
+  - Return false immediately if the passenger count exceeds the car capacity
+- 🔗 Solution: solutions/Day241.java
+
+---
