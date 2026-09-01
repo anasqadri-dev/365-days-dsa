@@ -3451,3 +3451,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day237.java
 
 ---
+
+## ✅ 238
+
+- 📌 Problem: LeetCode 57 — Insert Interval
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Greedy, Sorting, Intervals
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Add all intervals that come before the new interval without overlapping
+  - Merge all intervals that overlap with the new interval
+  - Update the start and end boundaries while merging overlapping intervals
+  - Add the remaining intervals after the merged interval
+- 🔗 Solution: solutions/Day238.java
+
+---
