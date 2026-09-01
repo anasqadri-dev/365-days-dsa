@@ -3419,3 +3419,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day235.java
 
 ---
+
+## ✅ 236
+
+- 📌 Problem: LeetCode 435 — Non-overlapping Intervals
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Greedy, Sorting, Intervals
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Sort intervals by their ending time
+  - Greedily keep the interval that finishes earliest
+  - When two intervals overlap, remove the one with the later ending time
+  - Track the previous interval's end to detect overlaps efficiently
+  - Minimize removals by maximizing the number of non-overlapping intervals
+- 🔗 Solution: solutions/Day236.java
+
+---
