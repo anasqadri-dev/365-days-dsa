@@ -3541,3 +3541,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day243.java
 
 ---
+
+## ✅ 244
+
+- 📌 Problem: LeetCode 763 — Partition Labels
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Greedy, Hashing, String
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Store the last occurrence of every character in the string
+  - Extend the current partition to include the last occurrence of each character
+  - Create a partition when the current index reaches the required ending position
+  - Use a greedy approach to create the maximum number of valid partitions
+- 🔗 Solution: solutions/Day244.java
+
+---
