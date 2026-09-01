@@ -3511,3 +3511,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day241.java
 
 ---
+
+## ✅ 242
+
+- 📌 Problem: LeetCode 1288 — Remove Covered Intervals
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Greedy, Sorting, Intervals
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Sort intervals by start position in ascending order
+  - For equal start positions, sort by end position in descending order
+  - Track the farthest end position seen so far
+  - Count an interval only when its end extends beyond the current maximum end
+- 🔗 Solution: solutions/Day242.java
+
+---
