@@ -3691,3 +3691,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day253.java
 
 ---
+
+## ✅ 254
+
+- 📌 Problem: LeetCode 200 — Number of Islands
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, DFS, Matrix
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Use DFS to explore all connected land cells belonging to an island
+  - Count a new island whenever an unvisited land cell is found
+  - Mark visited land cells as water to avoid counting them again
+  - Explore all four directions: up, down, left, and right
+  - One complete DFS traversal represents one connected island
+- 🔗 Solution: solutions/Day254.java
+
+---
+
