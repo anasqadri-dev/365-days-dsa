@@ -3571,3 +3571,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day245.java
 
 ---
+
+## ✅ 246
+
+- 📌 Problem: LeetCode 191 — Number of 1 Bits
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Bit Manipulation
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Count the set bits in an integer's binary representation
+  - Use `n & (n - 1)` to remove the rightmost set bit
+  - Repeat the operation until the number becomes zero
+  - The number of iterations directly gives the Hamming weight
+- 🔗 Solution: solutions/Day246.java
+
+---
