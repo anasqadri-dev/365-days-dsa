@@ -3586,3 +3586,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day246.java
 
 ---
+
+## ✅ 247
+
+- 📌 Problem: LeetCode 136 — Single Number
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Bit Manipulation, XOR
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Use XOR to find the element that appears only once
+  - Identical numbers cancel each other because `x ^ x = 0`
+  - XOR with zero leaves the original value unchanged
+  - Solve the problem in linear time with constant extra space
+- 🔗 Solution: solutions/Day247.java
+
+---
+
+
