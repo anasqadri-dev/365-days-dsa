@@ -3776,3 +3776,21 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 
 ---
 
+## ✅ 259
+
+- 📌 Problem: LeetCode 210 — Course Schedule II
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, BFS, Topological Sort, Cycle Detection
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Use topological sorting to determine a valid ordering of courses
+  - Represent prerequisite relationships using a directed graph
+  - Use indegree to track the number of prerequisites required by each course
+  - Apply Kahn's Algorithm using BFS to process courses with zero prerequisites
+  - Add each processed course to the result array to construct the course order
+  - Decrease the indegree of dependent courses after completing a course
+  - If all courses are processed, the resulting array represents a valid course order
+  - If some courses remain unprocessed, a cycle exists and an empty array must be returned
+- 🔗 Solution: solutions/Day259.java
+
+---
