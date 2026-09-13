@@ -3631,3 +3631,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day249.java
 
 ---
+
+## ✅ 250
+
+- 📌 Problem: LeetCode 338 — Counting Bits
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Bit Manipulation, Dynamic Programming
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Use `i & (i - 1)` to remove the rightmost set bit
+  - Build the number of set bits for each value using previously calculated results
+  - Apply dynamic programming to avoid repeatedly counting bits from scratch
+  - Solve the problem in linear time without using built-in bit-counting functions
+- 🔗 Solution: solutions/Day250.java
+
+---
+
