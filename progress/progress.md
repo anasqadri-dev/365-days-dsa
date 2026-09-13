@@ -3708,3 +3708,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 
 ---
 
+## ✅ 255
+
+- 📌 Problem: LeetCode 695 — Max Area of Island
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, DFS, Matrix
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Use DFS to explore all connected land cells of an island
+  - Calculate the area by counting every visited land cell
+  - Mark visited cells as water to avoid processing them again
+  - Explore all four directions: up, down, left, and right
+  - Track the maximum area among all discovered islands
+- 🔗 Solution: solutions/Day256.java
+
+---
