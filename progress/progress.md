@@ -3723,3 +3723,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day256.java
 
 ---
+
+## ✅ 256
+
+- 📌 Problem: LeetCode 733 — Flood Fill
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Graph, DFS, Matrix
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Use DFS to traverse all connected pixels with the same original color
+  - Store the starting pixel's original color before modifying the image
+  - Explore all four directions: up, down, left, and right
+  - Change each matching pixel to the new color while traversing
+  - Handle the edge case where the original color is already the target color
+- 🔗 Solution: solutions/Day256.java
+
+---
+
