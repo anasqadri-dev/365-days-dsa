@@ -3602,4 +3602,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 
 ---
 
+## ✅ 248
+
+- 📌 Problem: LeetCode 268 — Missing Number
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Bit Manipulation, XOR
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Use XOR to find the missing number without extra space
+  - XOR all indices and array values together
+  - Identical numbers cancel each other because `x ^ x = 0`
+  - The remaining value is the missing number from the range `[0, n]`
+- 🔗 Solution: solutions/Day248.java
+
+---
 
