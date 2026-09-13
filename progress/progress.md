@@ -3661,3 +3661,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day251.java
 
 ---
+
+## ✅ 252
+
+- 📌 Problem: LeetCode 389 — Find the Difference
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Bit Manipulation, XOR, String
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Use XOR to find the character that appears only once across both strings
+  - Identical characters cancel each other because `x ^ x = 0`
+  - The order of characters does not matter when using XOR
+  - XOR all characters from both strings to isolate the added character
+- 🔗 Solution: solutions/Day252.java
+
+---
+
