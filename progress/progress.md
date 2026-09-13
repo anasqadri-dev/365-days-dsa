@@ -3740,3 +3740,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 
 ---
 
+## ✅ 257
+
+- 📌 Problem: LeetCode 994 — Rotting Oranges
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, BFS, Matrix
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Use BFS to process all rotten oranges level by level
+  - Add all initially rotten oranges to the queue before starting the traversal
+  - Each BFS level represents one minute of rotting
+  - Explore all four directions: up, down, left, and right
+  - Mark fresh oranges as rotten when they are reached and add them to the queue
+  - Track the number of fresh oranges to determine whether all oranges can eventually rot
+  - Return `-1` when some fresh oranges remain unreachable
+- 🔗 Solution: solutions/Day257.java
+
+---
