@@ -3647,3 +3647,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 
 ---
 
+## ✅ 251
+
+- 📌 Problem: LeetCode 461 — Hamming Distance
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Bit Manipulation, XOR
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Use XOR to identify the bit positions where two integers differ
+  - XOR produces `1` at positions where the corresponding bits are different
+  - Count the set bits in the XOR result to find the Hamming distance
+  - Process each bit using right shift and bitwise AND
+- 🔗 Solution: solutions/Day251.java
+
+---
