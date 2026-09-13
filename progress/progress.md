@@ -3617,3 +3617,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 
 ---
 
+## ✅ 249
+
+- 📌 Problem: LeetCode 371 — Sum of Two Integers
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Bit Manipulation, XOR
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Use XOR to calculate the sum without considering carry
+  - Use AND followed by a left shift to calculate the carry
+  - Repeat the process until there is no carry remaining
+  - Perform integer addition without using the `+` or `-` operators
+- 🔗 Solution: solutions/Day249.java
+
+---
