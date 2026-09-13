@@ -3677,3 +3677,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 
 ---
 
+## ✅ 253
+
+- 📌 Problem: LeetCode 201 — Bitwise AND of Numbers Range
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Bit Manipulation, Bitwise AND
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Identify the common leading bits of the numbers in the given range
+  - Repeatedly right-shift both boundaries until they become equal
+  - Lower bits that change within the range will become zero in the final AND
+  - Shift the common prefix back to its original position to obtain the result
+- 🔗 Solution: solutions/Day253.java
+
+---
