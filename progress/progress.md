@@ -3794,3 +3794,22 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day259.java
 
 ---
+
+## ✅ 260
+
+- 📌 Problem: LeetCode 547 — Number of Provinces
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, DFS, Connected Components, Matrix
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Treat each city as a node in an undirected graph
+  - Use the adjacency matrix to determine which cities are directly connected
+  - Use DFS to explore all cities that belong to the same province
+  - Mark each visited city to avoid processing it multiple times
+  - Start a new DFS whenever an unvisited city is found
+  - Each new DFS traversal represents one connected component or province
+  - Count the total number of DFS traversals to determine the number of provinces
+- 🔗 Solution: solutions/Day260.java
+
+---
+
