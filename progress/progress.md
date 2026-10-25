@@ -4000,3 +4000,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day271.java
 
 ---
+
+## ✅ 272
+
+- 📌 Problem: LeetCode 542 — 01 Matrix
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, BFS, Multi-Source BFS, Matrix
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Start BFS from all cells containing 0
+  - Use a queue to explore neighboring cells level by level
+  - Mark unvisited cells with -1
+  - Calculate each cell's distance from the nearest 0
+  - Explore all four directions while checking matrix boundaries
+  - Multi-source BFS finds the shortest distance efficiently
+- 🔗 Solution: solutions/Day272.java
+
+---
