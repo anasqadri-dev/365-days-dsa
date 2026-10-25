@@ -4334,3 +4334,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day291.java
 
 ---
+
+## ✅ 292
+
+- 📌 Problem: LeetCode 947 — Most Stones Removed with Same Row or Column
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, Disjoint Set Union (DSU), Union-Find
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Connect stones that share a row or column
+  - Use DSU to find connected components
+  - At least one stone must remain in each component
+  - Maximum removals equal total stones minus connected components
+- 🔗 Solution: solutions/Day292.java
+
+---
