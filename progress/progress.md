@@ -4151,3 +4151,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day280.java
 
 ---
+
+## ✅ 281
+
+- 📌 Problem: LeetCode 126 — Word Ladder II
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graph, BFS, DFS, Backtracking, Shortest Paths
+- ⏱ Time Taken: 35 Minutes
+- 💡 Key Learning:
+  - Use BFS to discover shortest transformation paths
+  - Store every valid parent for each word at the same BFS level
+  - Delay marking words visited until the current level is processed
+  - Stop exploring after finding the end word's level
+  - Use DFS and backtracking to reconstruct all shortest sequences
+- 🔗 Solution: solutions/Day281.java
+
+---
