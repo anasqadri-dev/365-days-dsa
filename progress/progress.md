@@ -4217,3 +4217,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day284.java
 
 ---
+
+## ✅ 285
+
+- 📌 Problem: LeetCode 1319 — Number of Operations to Make Network Connected
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, Disjoint Set Union (DSU), Union-Find
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - At least n - 1 cables are required to connect n computers
+  - Use Disjoint Set Union to track connected components
+  - Use path compression to speed up find operations
+  - Use union by rank to keep sets balanced
+  - Decrease the component count whenever two separate components are merged
+  - The minimum operations required equal the number of components minus one
+- 🔗 Solution: solutions/Day285.java
+
+---
