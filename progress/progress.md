@@ -4134,3 +4134,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day279.java
 
 ---
+
+## ✅ 280
+
+- 📌 Problem: LeetCode 882 — Reachable Nodes In Subdivided Graph
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graph, Dijkstra's Algorithm, Priority Queue, Shortest Path
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Represent each original edge with cost cnt + 1
+  - Use Dijkstra's algorithm to find shortest distances from node 0
+  - Count original nodes reachable within maxMoves
+  - Calculate how many intermediate nodes can be reached from each endpoint
+  - Avoid double-counting intermediate nodes by limiting the total to cnt
+  - Handle disconnected nodes using an infinite-distance marker
+- 🔗 Solution: solutions/Day280.java
+
+---
