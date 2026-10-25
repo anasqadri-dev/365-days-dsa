@@ -3948,3 +3948,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day268.java
 
 ---
+
+## ✅ 269
+
+- 📌 Problem: Walls and Gates
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, BFS, Multi-Source BFS, Matrix
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Start BFS from all gates simultaneously
+  - Use a queue to process rooms level by level
+  - Explore only the four horizontal and vertical directions
+  - Update an empty room with the distance of the current room plus one
+  - Visit only cells containing INF to avoid overwriting gates, walls, or assigned distances
+  - Leave unreachable rooms unchanged
+- 🔗 Solution: solutions/Day269.java
+
+---
