@@ -4502,3 +4502,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day302.java
 
 ---
+
+## ✅ 303
+
+- 📌 Problem: LeetCode 2421 — Number of Good Paths
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graph, Sorting, Disjoint Set Union (DSU)
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Every node contributes one single-node good path
+  - Process edges in increasing order of their maximum endpoint value
+  - Merge components while respecting the current value threshold
+  - Count pairs of equal-valued nodes that become connected
+- 🔗 Solution: solutions/Day303.java
+
+---
