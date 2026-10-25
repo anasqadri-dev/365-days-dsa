@@ -4167,3 +4167,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day281.java
 
 ---
+
+## ✅ 282
+
+- 📌 Problem: LeetCode 329 — Longest Increasing Path in a Matrix
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graph, DFS, Dynamic Programming, Memoization, Matrix
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Treat each cell as a node connected to larger neighboring cells
+  - Use DFS to explore strictly increasing paths
+  - Cache the longest path starting from each cell
+  - Use memoization to avoid recalculating the same paths
+  - Take the maximum path length across all starting cells
+- 🔗 Solution: solutions/Day282.java
+
+---
