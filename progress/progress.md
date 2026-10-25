@@ -4067,3 +4067,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day275.java
 
 ---
+
+## ✅ 276
+
+- 📌 Problem: LeetCode 815 — Bus Routes
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graph, BFS, HashMap, HashSet, Shortest Path
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Map each bus stop to the buses that visit it
+  - Use BFS to explore reachable stops
+  - Count each BFS level as one additional bus
+  - Track visited buses to avoid processing routes repeatedly
+  - Track visited stops to avoid unnecessary revisits
+  - Return -1 when the target cannot be reached
+- 🔗 Solution: solutions/Day276.java
+
+---
