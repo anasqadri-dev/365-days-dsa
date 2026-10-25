@@ -3982,3 +3982,21 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day270.java
 
 ---
+
+## ✅ 271
+
+- 📌 Problem: LeetCode 127 — Word Ladder
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graph, BFS, HashSet, Shortest Path
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Model each word as a node in a graph
+  - Connect words that differ by exactly one letter
+  - Use BFS to find the shortest transformation sequence
+  - Change one character at a time to generate possible words
+  - Use a HashSet for efficient word lookup
+  - Remove visited words to avoid processing them repeatedly
+  - Return 0 if the end word cannot be reached
+- 🔗 Solution: solutions/Day271.java
+
+---
