@@ -4285,3 +4285,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day288.java
 
 ---
+
+## ✅ 289
+
+- 📌 Problem: LeetCode 1202 — Smallest String With Swaps
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, Disjoint Set Union (DSU), Priority Queue, Greedy
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Use DSU to group indices connected through allowed swaps
+  - Characters within the same connected component can be rearranged freely
+  - Store each component's characters in a min-heap
+  - Process indices in ascending order and select the smallest available character
+  - Build the lexicographically smallest string by placing each component's characters in sorted order
+- 🔗 Solution: solutions/Day289.java
+
+---
