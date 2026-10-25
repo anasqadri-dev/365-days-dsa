@@ -4234,3 +4234,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day285.java
 
 ---
+
+## ✅ 286
+
+- 📌 Problem: LeetCode 1631 — Path With Minimum Effort
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, Dijkstra's Algorithm, Priority Queue, Matrix
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Treat each grid cell as a graph node
+  - Calculate the absolute height difference between neighboring cells
+  - The effort of a path is the maximum difference along that path
+  - Use Math.max to calculate the effort of an extended path
+  - Use a priority queue to explore the cell with the minimum effort first
+  - Update a cell only when a smaller effort is found
+- 🔗 Solution: solutions/Day286.java
+
+---
