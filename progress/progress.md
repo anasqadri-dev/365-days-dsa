@@ -4396,3 +4396,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day295.java
 
 ---
+
+## ✅ 296
+
+- 📌 Problem: LeetCode 1489 — Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graph, Minimum Spanning Tree, Kruskal's Algorithm, DSU
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Find the baseline MST weight using Kruskal's algorithm
+  - An edge is critical if excluding it increases the MST weight
+  - An edge is pseudo-critical if forcing it preserves the MST weight
+  - Preserve original edge indices after sorting
+- 🔗 Solution: solutions/Day296.java
+
+---
