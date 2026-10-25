@@ -4531,3 +4531,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day304.java
 
 ---
+
+## ✅ 305
+
+- 📌 Problem: LeetCode 332 — Reconstruct Itinerary
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graphs, DFS, Eulerian Path, Priority Queue
+- ⏱ Time Taken: 30 minutes
+- 💡 Key Learning:
+  - Use a min-heap to process destinations in lexicographical order.
+  - Apply Hierholzer's algorithm to use every ticket exactly once.
+  - Add airports after exploring outgoing edges, then reverse the result.
+- 🔗 Solution: solutions/Day305.java
+
+---
