@@ -4183,3 +4183,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day282.java
 
 ---
+
+## ✅ 283
+
+- 📌 Problem: LeetCode 778 — Swim in Rising Water
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graph, Dijkstra's Algorithm, Priority Queue, Matrix
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Treat each grid cell as a graph node
+  - Use the maximum elevation along a path as its cost
+  - Explore the cell with the smallest current path cost first
+  - Update path cost using the maximum of current time and next elevation
+  - Use a visited matrix to avoid processing cells repeatedly
+  - Return the minimum time when reaching the bottom-right cell
+- 🔗 Solution: solutions/Day283.java
+
+---
