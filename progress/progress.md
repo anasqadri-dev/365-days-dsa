@@ -4488,3 +4488,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day301.java
 
 ---
+
+## ✅ 302
+
+- 📌 Problem: LeetCode 2492 — Minimum Score of a Path Between Two Cities
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, DFS, Connected Components
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Roads are bidirectional, so build an undirected graph
+  - The answer is the minimum road distance in city 1's connected component
+  - Use DFS to explore all reachable cities and inspect their roads
+- 🔗 Solution: solutions/Day302.java
+
+---
