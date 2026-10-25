@@ -3965,3 +3965,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day269.java
 
 ---
+
+## ✅ 270
+
+- 📌 Problem: LeetCode 417 — Pacific Atlantic Water Flow
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, DFS, Matrix, Reachability
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Use separate visited matrices for the Pacific and Atlantic oceans
+  - Start DFS from the borders touching each ocean
+  - Move to neighboring cells with equal or greater heights
+  - Mark each reachable cell to avoid repeated exploration
+  - Include cells reachable from both oceans in the result
+  - Reverse the water flow direction to make the problem easier
+- 🔗 Solution: solutions/Day270.java
+
+---
