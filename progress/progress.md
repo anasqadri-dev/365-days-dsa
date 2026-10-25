@@ -4380,3 +4380,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day294.java
 
 ---
+
+## ✅ 295
+
+- 📌 Problem: LeetCode 1101 — The Earliest Moment When Everyone Become Friends
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, Sorting, Disjoint Set Union (DSU), Union-Find
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Sort friendship logs by timestamp
+  - Merge people into connected groups using DSU
+  - Decrease the group count after each successful union
+  - The first timestamp with one remaining group is the answer
+  - Return -1 if everyone never becomes connected
+- 🔗 Solution: solutions/Day295.java
+
+---
