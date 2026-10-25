@@ -4017,3 +4017,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day272.java
 
 ---
+
+## ✅ 273
+
+- 📌 Problem: LeetCode 934 — Shortest Bridge
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, DFS, BFS, Multi-Source BFS, Matrix
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Use DFS to identify and mark the first island
+  - Add all first-island cells to a BFS queue
+  - Expand outward level by level through water
+  - Mark visited cells to avoid processing them repeatedly
+  - Count water layers until reaching the second island
+  - Use multi-source BFS to find the minimum number of flips
+- 🔗 Solution: solutions/Day273.java
+
+---
