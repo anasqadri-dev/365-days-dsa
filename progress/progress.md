@@ -4517,3 +4517,17 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day303.java
 
 ---
+
+## ✅ 304
+
+- 📌 Problem: LeetCode 2642 — Design Graph With Shortest Path Calculator
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graphs, Dijkstra's Algorithm, Priority Queue
+- ⏱ Time Taken: 30 minutes
+- 💡 Key Learning:
+  - Represent a directed weighted graph using an adjacency list.
+  - Use Dijkstra's algorithm with a priority queue to find shortest paths efficiently.
+  - Support dynamic edge additions by updating the adjacency list.
+- 🔗 Solution: solutions/Day304.java
+
+---
