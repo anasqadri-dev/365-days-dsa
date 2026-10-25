@@ -4473,3 +4473,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day300.java
 
 ---
+
+## ✅ 301
+
+- 📌 Problem: LeetCode 2316 — Count Unreachable Pairs of Nodes in an Undirected Graph
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, DFS, Connected Components
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Use DFS to find connected components
+  - Nodes in different components are unreachable from each other
+  - Count cross-component pairs using size \* remaining
+  - Use long to avoid integer overflow
+- 🔗 Solution: solutions/Day301.java
+
+---
