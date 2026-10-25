@@ -4318,3 +4318,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day290.java
 
 ---
+
+## ✅ 291
+
+- 📌 Problem: LeetCode 990 — Satisfiability of Equality Equations
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Disjoint Set Union (DSU), Union-Find, Strings
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Process all equality equations before checking inequalities
+  - Use DSU to group variables that must have equal values
+  - Convert lowercase characters into indices from 0 to 25
+  - If an inequality connects variables in the same set, a contradiction exists
+  - Use path compression and union by rank for efficient operations
+- 🔗 Solution: solutions/Day291.java
+
+---
