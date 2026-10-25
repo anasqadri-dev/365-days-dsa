@@ -4101,3 +4101,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day277.java
 
 ---
+
+## ✅ 278
+
+- 📌 Problem: LeetCode 490 — The Maze
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, BFS, Matrix, Simulation
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Treat each stopping position as a graph state
+  - Roll in each direction until reaching a wall or boundary
+  - Add only stopping positions to the BFS queue
+  - Track visited positions to avoid repeated processing
+  - The ball must stop at the destination, not merely pass through it
+- 🔗 Solution: solutions/Day278.java
+
+---
