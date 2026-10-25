@@ -4051,3 +4051,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day274.java
 
 ---
+
+## ✅ 275
+
+- 📌 Problem: LeetCode 1162 — As Far from Land as Possible
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, BFS, Multi-Source BFS, Matrix
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Start BFS from all land cells simultaneously
+  - Explore neighboring water cells level by level
+  - Mark visited water cells to avoid revisiting them
+  - Use BFS levels to calculate distance from the nearest land
+  - Return -1 when the grid contains only land or only water
+- 🔗 Solution: solutions/Day275.java
+
+---
