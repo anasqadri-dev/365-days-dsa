@@ -4349,3 +4349,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day292.java
 
 ---
+
+## ✅ 293
+
+- 📌 Problem: LeetCode 261 — Graph Valid Tree
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, Disjoint Set Union (DSU), Union-Find
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - A tree with n nodes must have exactly n - 1 edges
+  - If two nodes share the same root, adding their edge creates a cycle
+  - With n - 1 edges and no cycles, the graph is connected
+  - Use path compression to optimize find operations
+- 🔗 Solution: solutions/Day293.java
+
+---
