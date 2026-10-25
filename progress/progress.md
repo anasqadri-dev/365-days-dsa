@@ -3880,3 +3880,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day264.java
 
 ---
+
+## ✅ 265
+
+- 📌 Problem: LeetCode 133 — Clone Graph
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, DFS, HashMap, Deep Copy
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Create a new node for each original node
+  - Use a HashMap to map original nodes to their cloned copies
+  - Store each clone before exploring its neighbors to handle cycles
+  - Recursively clone every neighboring node
+  - Connect cloned nodes to cloned neighbors instead of original nodes
+  - Return null when the input node is null
+- 🔗 Solution: solutions/Day265.java
+
+---
