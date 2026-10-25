@@ -3830,3 +3830,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day261.java
 
 ---
+
+## ✅ 262
+
+- 📌 Problem: LeetCode 1971 — Find if Path Exists in Graph
+- 🧩 Difficulty: Easy
+- 🧠 Topic: Graph, DFS, Graph Traversal, Adjacency List
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Represent the graph using an adjacency list
+  - Add both directions for every edge because the graph is bidirectional
+  - Start DFS from the source vertex
+  - Mark each visited vertex to avoid revisiting it
+  - Return true when the destination is reached
+  - Return false if no path to the destination exists
+- 🔗 Solution: solutions/Day262.java
+
+---
