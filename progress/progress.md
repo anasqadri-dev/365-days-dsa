@@ -3813,3 +3813,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 
 ---
 
+## ✅ 261
+
+- 📌 Problem: LeetCode 841 — Keys and Rooms
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, DFS, Traversal, Connected Components
+- ⏱ Time Taken: 15 Minutes
+- 💡 Key Learning:
+  - Treat each room as a node in a graph
+  - Treat each key as a directed edge to the room it unlocks
+  - Start DFS from room 0 because it is initially unlocked
+  - Use a visited array to prevent revisiting rooms
+  - Explore every room that can be reached using the available keys
+  - After DFS, check whether every room has been visited
+  - Return true if all rooms are visited; otherwise, return false
+- 🔗 Solution: solutions/Day261.java
+
+---
