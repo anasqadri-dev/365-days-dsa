@@ -4458,3 +4458,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day299.java
 
 ---
+
+## ✅ 300
+
+- 📌 Problem: LeetCode 2101 — Detonate the Maximum Bombs
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, DFS, Reachability
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Model bomb detonations as a directed graph
+  - Use squared distances to check whether a bomb is within another bomb's radius
+  - Run DFS from every bomb to count reachable bombs
+  - Track visited nodes to avoid counting a bomb more than once
+- 🔗 Solution: solutions/Day300.java
+
+---
