@@ -4034,3 +4034,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day273.java
 
 ---
+
+## ✅ 274
+
+- 📌 Problem: LeetCode 752 — Open the Lock
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, BFS, Queue, HashSet, Shortest Path
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Treat each lock combination as a graph state
+  - Generate neighbors by rotating each wheel up or down
+  - Handle circular rotation between 0 and 9
+  - Use BFS to find the minimum number of turns
+  - Avoid deadends and visited states
+  - Return -1 when the target cannot be reached
+- 🔗 Solution: solutions/Day274.java
+
+---
