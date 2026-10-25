@@ -3932,3 +3932,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day267.java
 
 ---
+
+## ✅ 268
+
+- 📌 Problem: LeetCode 787 — Cheapest Flights Within K Stops
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, Bellman-Ford, Dynamic Programming, Shortest Path
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Initialize the source city cost to 0 and all other costs to infinity
+  - Perform at most k + 1 iterations because k stops allow k + 1 flights
+  - Use a temporary cost array to prevent using multiple flights in one iteration
+  - Update a destination city when a cheaper route is found
+  - Return -1 if the destination cannot be reached within the flight limit
+- 🔗 Solution: solutions/Day268.java
+
+---
