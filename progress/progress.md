@@ -4117,3 +4117,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day278.java
 
 ---
+
+## ✅ 279
+
+- 📌 Problem: LeetCode 505 — The Maze II
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, Dijkstra's Algorithm, Priority Queue, Shortest Path
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Use Dijkstra's algorithm when edges have different distances
+  - Roll until hitting a wall before choosing the next direction
+  - Count every empty cell traveled during each roll
+  - Maintain the shortest known distance to each stopping position
+  - Use a priority queue to process the smallest distance first
+  - Return -1 if the destination cannot be reached
+- 🔗 Solution: solutions/Day279.java
+
+---
