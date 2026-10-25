@@ -3847,3 +3847,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day262.java
 
 ---
+
+## ✅ 263
+
+- 📌 Problem: LeetCode 785 — Is Graph Bipartite?
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, DFS, Graph Coloring, Bipartite Graph
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - A bipartite graph can be divided into two sets of nodes
+  - Use two colors to represent the two sets
+  - Assign each neighboring node the opposite color
+  - If adjacent nodes have the same color, the graph is not bipartite
+  - Use DFS to explore connected components
+  - Check every uncolored node because the graph may be disconnected
+- 🔗 Solution: solutions/Day263.java
+
+---
