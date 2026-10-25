@@ -4251,3 +4251,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day286.java
 
 ---
+
+## ✅ 287
+
+- 📌 Problem: LeetCode 1584 — Min Cost to Connect All Points
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, Minimum Spanning Tree, Prim's Algorithm, Greedy
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Use a Minimum Spanning Tree to connect all points at minimum total cost
+  - Calculate connection costs using Manhattan distance
+  - Use Prim's Algorithm to grow the tree one point at a time
+  - Maintain the minimum cost required to connect each unvisited point
+  - Select the unvisited point with the smallest connection cost
+  - Update the total cost whenever a point joins the tree
+- 🔗 Solution: solutions/Day287.java
+
+---
