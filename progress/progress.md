@@ -4268,3 +4268,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day287.java
 
 ---
+
+## ✅ 288
+
+- 📌 Problem: LeetCode 721 — Accounts Merge
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, Disjoint Set Union (DSU), HashMap, Sorting
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Use DSU to group accounts that share common emails
+  - Map each email to the account where it first appears
+  - Union accounts whenever an email appears in multiple accounts
+  - Group emails by their final root account
+  - Use a TreeSet to keep merged emails sorted and unique
+  - Use the account name associated with the root to build the result
+- 🔗 Solution: solutions/Day288.java
+
+---
