@@ -4301,3 +4301,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day289.java
 
 ---
+
+## ✅ 290
+
+- 📌 Problem: LeetCode 839 — Similar String Groups
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graph, Disjoint Set Union (DSU), Union-Find, Strings
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Treat each string as a graph node
+  - Two strings are similar if they differ at zero or exactly two positions
+  - Stop comparing as soon as more than two differences are found
+  - Use DSU to merge strings that belong to the same group
+  - Decrease the group count whenever two separate components are merged
+  - The final group count represents the number of connected components
+- 🔗 Solution: solutions/Day290.java
+
+---
