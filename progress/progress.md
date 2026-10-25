@@ -4411,3 +4411,18 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day296.java
 
 ---
+
+## ✅ 297
+
+- 📌 Problem: LeetCode 1697 — Checking Existence of Edge Length Limited Paths
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graph, Sorting, Disjoint Set Union (DSU), Offline Queries
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Sort edges and queries by distance limit
+  - Add only edges with distance strictly less than the current limit
+  - Use DSU to check whether two nodes are connected
+  - Store original query indices to preserve answer order
+- 🔗 Solution: solutions/Day297.java
+
+---
