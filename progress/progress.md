@@ -3864,3 +3864,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day263.java
 
 ---
+
+## ✅ 264
+
+- 📌 Problem: LeetCode 797 — All Paths From Source to Target
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, DFS, Backtracking, Paths
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Start DFS from node 0 and explore every possible path
+  - Reach the target node to identify a complete path
+  - Store a copy of each complete path in the result
+  - Use backtracking to remove the last node after exploring a path
+  - Explore every outgoing edge because the graph is a DAG
+- 🔗 Solution: solutions/Day264.java
+
+---
