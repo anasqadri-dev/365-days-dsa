@@ -4364,3 +4364,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day293.java
 
 ---
+
+## ✅ 294
+
+- 📌 Problem: LeetCode 305 — Number of Islands II
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graph, Disjoint Set Union (DSU), Union-Find
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Map each grid cell to an index using r \* n + c
+  - Initialize water cells as inactive using -1
+  - Each new land cell creates one island
+  - Merge adjacent land components and decrease the island count
+  - Ignore duplicate land additions
+- 🔗 Solution: solutions/Day294.java
+
+---
