@@ -4200,3 +4200,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day283.java
 
 ---
+
+## ✅ 284
+
+- 📌 Problem: LeetCode 684 — Redundant Connection
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, Disjoint Set Union (DSU), Union-Find
+- ⏱ Time Taken: 20 Minutes
+- 💡 Key Learning:
+  - Use Disjoint Set Union to track connected components
+  - Initialize every node as its own parent
+  - Use path compression to make find operations faster
+  - Use union by rank to keep the sets balanced
+  - If both endpoints of an edge have the same root, that edge creates a cycle
+  - Return the first edge that connects nodes already in the same set
+- 🔗 Solution: solutions/Day284.java
+
+---
