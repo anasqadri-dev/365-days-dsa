@@ -4442,3 +4442,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day298.java
 
 ---
+
+## ✅ 299
+
+- 📌 Problem: LeetCode 2092 — Find All People With Secret
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graph, Sorting, Disjoint Set Union (DSU)
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Process meetings in chronological order
+  - Handle all meetings at the same timestamp together
+  - People connected to person 0 have learned the secret
+  - Reset connections for people who do not know the secret
+  - Same-time meetings allow instant secret sharing through chains
+- 🔗 Solution: solutions/Day299.java
+
+---
