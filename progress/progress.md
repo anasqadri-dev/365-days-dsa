@@ -4084,3 +4084,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day276.java
 
 ---
+
+## ✅ 277
+
+- 📌 Problem: LeetCode 864 — Shortest Path to Get All Keys
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graph, BFS, Bitmasking, State-Space Search
+- ⏱ Time Taken: 30 Minutes
+- 💡 Key Learning:
+  - Represent each BFS state using row, column, and collected keys
+  - Use a bitmask to track which keys have been collected
+  - Allow movement through a lock only when its matching key is available
+  - Track visited positions separately for each key combination
+  - Use BFS levels to calculate the shortest path
+  - Return -1 if all keys cannot be collected
+- 🔗 Solution: solutions/Day277.java
+
+---
