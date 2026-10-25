@@ -3915,3 +3915,20 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day266.java
 
 ---
+
+## ✅ 267
+
+- 📌 Problem: LeetCode 743 — Network Delay Time
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, Dijkstra's Algorithm, Shortest Path, Greedy
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Represent directed edges with their travel times
+  - Initialize the source node's distance to 0 and all others to infinity
+  - Repeatedly select the unvisited node with the smallest distance
+  - Update neighboring nodes when a shorter path is found
+  - Find the maximum shortest distance to determine the total network delay
+  - Return -1 if any node is unreachable
+- 🔗 Solution: solutions/Day267.java
+
+---
