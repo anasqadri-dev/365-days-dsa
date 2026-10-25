@@ -4426,3 +4426,19 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day297.java
 
 ---
+
+## ✅ 298
+
+- 📌 Problem: LeetCode 1579 — Remove Max Number of Edges to Keep Graph Fully Traversable
+- 🧩 Difficulty: Hard
+- 🧠 Topic: Graph, Greedy, Disjoint Set Union (DSU)
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Process shared type 3 edges before exclusive edges
+  - Maintain separate DSU structures for Alice and Bob
+  - Count only edges that connect different components
+  - Remove redundant edges while preserving connectivity
+  - Return -1 if either graph is disconnected
+- 🔗 Solution: solutions/Day298.java
+
+---
