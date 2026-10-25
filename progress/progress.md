@@ -3897,3 +3897,21 @@ This file tracks my **daily progress** for the **365 Days of DSA Challenge**.
 - 🔗 Solution: solutions/Day265.java
 
 ---
+
+## ✅ 266
+
+- 📌 Problem: LeetCode 399 — Evaluate Division
+- 🧩 Difficulty: Medium
+- 🧠 Topic: Graph, DFS, HashMap, Weighted Graph
+- ⏱ Time Taken: 25 Minutes
+- 💡 Key Learning:
+  - Represent each equation as a weighted graph edge
+  - Store the reciprocal value for the reverse edge
+  - Use DFS to find a path between the queried variables
+  - Multiply edge weights along the path to calculate the result
+  - Track visited variables to avoid cycles
+  - Return -1.0 when either variable is unknown or no path exists
+  - Return 1.0 when both variables in a query are the same and defined
+- 🔗 Solution: solutions/Day266.java
+
+---
